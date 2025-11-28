@@ -13,5 +13,10 @@
     "title": "test",
     "description": "test",
     "code": "test"
+  },
+  {
+    "title": "test",
+    "description": "test",
+    "code": "file1.jsx:\ntest\nfile2.ts:\ntest"
   }
 ]
