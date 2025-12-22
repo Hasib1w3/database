@@ -1,0 +1,440 @@
+[
+    {
+        "title": "Full-Width Animated Aura Background",
+        "description": "Absolutely positioned component that loads UnicornStudio to render a full-screen animated aura/gradient background behind page content. Ideal for hero headers or decorative sections in Tailwind-styled projects.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"HzcaAbRLaALMhHJp8gLY\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-width-animated-aura-background"
+    },
+    {
+        "title": "UnicornStudio Embedded Background Effect",
+        "description": "Full-width background container that embeds a UnicornStudio project via external script. Ideal for animated or interactive page backgrounds positioned behind main content.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"FixNvEwvWwbu3QX9qC3F\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "unicornstudio-embedded-background-effect"
+    },
+    {
+        "title": "Animated Aura Background with UnicornStudio",
+        "description": "Full-screen decorative background component that loads UnicornStudio to render an animated aura effect. Uses Tailwind utility classes for absolute positioning behind page content. Suitable for hero sections, landing pages or immersive UI backgrounds.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"ILgOO23w4wEyPQOKyLO4\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-with-unicornstudio"
+    },
+    {
+        "title": "Unicorn Studio Project Embed",
+        "description": "Embeds a Unicorn Studio project with a full-page container and lazy-loads the UnicornStudio SDK once, enabling interactive 3D/AR experiences or widgets on any webpage.",
+        "code": "<div data-us-project=\"1bY8o6HVTI1oxJxuCJEG\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.33/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicorn-studio-project-embed"
+    },
+    {
+        "title": "Full-Width Aura Background Integration",
+        "description": "Full-width aura background component that embeds a UnicornStudio project via script. Positioned absolutely behind page content for animated or dynamic backgrounds across sections or entire pages. {marked: true, mark_reason: violates content polices.}",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"EET25BiXxR2StNXZvAzF\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-width-aura-background-integration"
+    },
+    {
+        "title": "Full-Screen Animated Aura Background",
+        "description": "Full-width, full-height background component that loads UnicornStudio to render an animated aura effect. Positioned absolute with negative z-index via Tailwind utilities, it sits behind page content\u2014ideal for hero sections, landing pages, or decorative site backdrops.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"ZHhDKfVqqu8PKOSMwfuA\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-screen-animated-aura-background"
+    },
+    {
+        "title": "UnicornStudio Interactive Project Embed",
+        "description": "Embeds a UnicornStudio project via script into a fixed-size div (1440\u00d7900). Automatically loads the UnicornStudio library and initializes the specified project for showcasing interactive demos or prototypes on any webpage.",
+        "code": "<div data-us-project=\"p7Ff6pfTrb5Gs59C7nLC\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-interactive-project-embed"
+    },
+    {
+        "title": "Background Aura Animation Wrapper",
+        "description": "Full-width background wrapper that initializes a UnicornStudio aura animation via embedded script. Ideal for adding animated, layered visual backgrounds behind page content.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"uFY4IYPs2LU8fWm96Im2\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "background-aura-animation-wrapper"
+    },
+    {
+        "title": "Background Aura Animation Container",
+        "description": "Full-width absolute background container that embeds a UnicornStudio animated aura effect via external script. Ideal for adding dynamic visual backgrounds behind page content in landing pages or hero sections.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"bKN5upvoulAmWvInmHza\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "background-aura-animation-container"
+    },
+    {
+        "title": "UnicornStudio Aura Background Wrapper",
+        "description": "Full-width background wrapper that embeds a UnicornStudio project via script. Initializes the UnicornStudio library once and renders a dynamic aura-style visual background behind page content.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"NMlvqnkICwYYJ6lYb064\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "unicornstudio-aura-background-wrapper"
+    },
+    {
+        "title": "UnicornStudio Project Embed Loader",
+        "description": "Embeds a UnicornStudio interactive project via data attribute, auto-loads the library once, and displays it in a full-screen absolute container. Ideal for adding animated or 3D experiences to pages with minimal setup.",
+        "code": "<div data-us-project=\"bmaMERjX2VZDtPrh4Zwx\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.34/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-loader"
+    },
+    {
+        "title": "Animated Aura Background Integration",
+        "description": "Full-width absolute background component that embeds a UnicornStudio aura animation via external script. Ideal for adding animated visual backgrounds behind page content while keeping layout layers controlled with z-index.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"tPmIIl0vKqHO9yqmtge2\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-integration"
+    },
+    {
+        "title": "Full-Screen Aura Background Effect",
+        "description": "Provides a full-width, full-height animated aura background by embedding UnicornStudio script; positioned absolutely behind content with Tailwind utility classes\u2014ideal for hero sections and dynamic page backdrops.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"ty3N7ZPaIU7KlWixQFIc\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-screen-aura-background-effect"
+    },
+    {
+        "title": "UnicornStudio Embedded Background Canvas",
+        "description": "Full-screen absolute-positioned container that embeds a UnicornStudio project as a dynamic background using an external script loader. Ideal for interactive or animated page backdrops behind other UI content.",
+        "code": "<div data-us-project=\"hRFfUymDGOHwtFe7evR2\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.5.2/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-embedded-background-canvas"
+    },
+    {
+        "title": "Full-Page Aura Background Embed",
+        "description": "Full-width absolute background component embedding a Unicorn Studio aura/visual effect. Loads external UnicornStudio script once and attaches the animated background to a project container. Ideal for page-wide ambient backgrounds behind main content.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"qpSlPSWA2bdkUAYztz8z\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-page-aura-background-embed"
+    },
+    {
+        "title": "UnicornStudio Full-Width Animated Aura Background",
+        "description": "Absolute full-screen background component integrating UnicornStudio to render animated aura effects behind page content. Ideal for hero sections or landing pages seeking dynamic visual appeal.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"4gq2Yrv2p0bIa0hdLPQx\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "unicornstudio-full-width-animated-aura-background"
+    },
+    {
+        "title": "Animated Background Container",
+        "description": "Full-screen background container with UnicornStudio animation support for creating immersive animated backgrounds behind page content.",
+        "code": "<div class=\"bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900\">\n  <div class=\"absolute top-0 left-0 -z-10 w-full h-full\" data-us-project=\"BhoqrigscYbD7NN1fwcp\"></div>\n  <div data-us-project=\"BhoqrigscYbD7NN1fwcp\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n  <script type=\"text/javascript\">!function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();</script>\n</div>",
+        "id": "animated-background-container"
+    },
+    {
+        "title": "Animated Aura Background Embed",
+        "description": "Full-width background component that embeds a UnicornStudio animated aura effect via external script. Ideal for adding dynamic, decorative visual backgrounds behind page content or sections.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"8G9qTlSBPboaCMb8UV64\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-embed"
+    },
+    {
+        "title": "Animated Background Component",
+        "description": "A full-screen animated background component with gradient mask overlay and external animation library integration for immersive visual effects.",
+        "code": "<!-- Full-screen Unicorn background with bottom fade -->\n<div class=\"fixed inset-0 -z-10 bg-black\">\n  <div class=\"aura-background-component absolute inset-0 w-full h-full\" data-alpha-mask=\"80\" style=\"\n      /* Fade from solid to transparent near bottom */\n      -webkit-mask-image: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 80%, rgba(255,255,255,0) 100%);\n              mask-image: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 80%, rgba(255,255,255,0) 100%);\n      -webkit-mask-repeat: no-repeat;\n              mask-repeat: no-repeat;\n      -webkit-mask-size: 100% 100%;\n              mask-size: 100% 100%;\n    \">\n    <div data-us-project=\"XxCmD31vVBmiINgvYCho\" class=\"absolute inset-0 w-full h-full bg-neutral-950\">\n    </div>\n    <script type=\"text/javascript\">\n      !function () {\n        if (!window.UnicornStudio) {\n          window.UnicornStudio = { isInitialized: !1 };\n          var i = document.createElement(\"script\");\n          i.src = \"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",\n          i.onload = function () {\n            window.UnicornStudio.isInitialized || (UnicornStudio.init(), window.UnicornStudio.isInitialized = !0)\n          },\n          (document.head || document.body).appendChild(i)\n        }\n      }();\n    </script>\n  </div>\n</div>",
+        "id": "animated-background-component"
+    },
+    {
+        "title": "Animated Aura Background using UnicornStudio",
+        "description": "Full-screen, absolute-positioned background component that loads UnicornStudio to render an animated aura effect behind page content; ideal for hero sections or immersive layouts.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"inzENTvhzS9plyop7Z6g\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-using-unicornstudio"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container",
+        "description": "Embeds a UnicornStudio project using a data attribute and auto-loaded script, initializing interactive content within a fixed-size div. Ideal for showcasing prototypes, animations, or microsites inside any webpage.",
+        "code": "<div data-us-project=\"ju5gjGnrRr5Ud4fAt7eh\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container"
+    },
+    {
+        "title": "Full-Width Animated Aura Background",
+        "description": "Absolute, full-screen background component that injects UnicornStudio script to render an animated aura/gradient effect behind page content. Uses utility classes similar to Tailwind and is ideal for landing pages or hero sections needing subtle motion.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"aNQ1HJcO2IvNyDCGls8J\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-width-animated-aura-background-2"
+    },
+    {
+        "title": "Embedded Unicorn Studio Project Viewer",
+        "description": "HTML snippet that embeds a Unicorn Studio project via data-us-project attribute and dynamic script loader; ideal for showcasing interactive prototypes or demos within any webpage.",
+        "code": "<div data-us-project=\"K7xzrAoejHe2lHXqTJzm\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div><script type=\"text/javascript\">!function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();</script>",
+        "id": "embedded-unicorn-studio-project-viewer"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container",
+        "description": "Embeds a UnicornStudio interactive project via script loader. Auto-initializes the UnicornStudio library and renders the project inside a 1920\u00d71080 div, ideal for integrating rich interactive content or animations into webpages.",
+        "code": "<div data-us-project=\"X0ErZR3QhPzMHfKgBbJJ\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container-2"
+    },
+    {
+        "title": "Animated Full-Page Aura Background Overlay",
+        "description": "Absolute-positioned component that injects Unicorn Studio script to render a full-width, full-height animated aura backdrop behind page content; ideal for hero sections or immersive landing pages, styled with Tailwind utility classes.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"yWZ2Tbe094Fsjgy9NRnD\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-full-page-aura-background-overlay"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container Gray Wave with Sparkles",
+        "description": "Embeds a UnicornStudio project via dynamic script loader. Initializes once on load, renders interactive content inside a resizable div\u2014ideal for showcasing prototypes or widgets within any webpage.",
+        "code": "<div data-us-project=\"N9XzvQXu7fA5SY2ewADJ\" style=\"width:1440px; height: 900px\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.30/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container-gray-wave-with-sparkles"
+    },
+    {
+        "title": "Aura Background Animation Wrapper",
+        "description": "Full-width aura background wrapper that embeds a UnicornStudio animated background via external script, using gradient masking and absolute positioning. Ideal for adding dynamic visual effects behind hero sections or full-page layouts.",
+        "code": "<div class=\"aura-background-component w-full top-0 saturate-150 absolute h-[800px]\" data-alpha-mask=\"80\"\n  style=\"mask-image: linear-gradient(transparent, black 0%, black 80%, transparent);\">\n  <div data-us-project=\"bcBYZIStYXwiogchBNHO\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n  <script type=\"text/javascript\" class=\"\">\n    !function () {\n          if (!window.UnicornStudio) {\n            window.UnicornStudio = { isInitialized: !1 };\n            var i = document.createElement(\"script\");\n            i.src = \"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",\n            i.onload = function () {\n              window.UnicornStudio.isInitialized || (UnicornStudio.init(), window.UnicornStudio.isInitialized = !0)\n            },\n            (document.head || document.body).appendChild(i)\n          }\n        }();\n  </script>\n</div>",
+        "id": "aura-background-animation-wrapper"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container",
+        "description": "Full-screen absolute div that loads and initializes a UnicornStudio project via external script, enabling quick embedding of interactive UnicornStudio experiences or animations within any webpage.",
+        "code": "<div data-us-project=\"0WrRbFIPaKoWVkiQWBG0\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container-3"
+    },
+    {
+        "title": "UnicornStudio Aura Background Section",
+        "description": "Full-width, absolute positioned background component that loads a UnicornStudio project to render an animated aura effect; ideal for hero sections or page headers, styled with Tailwind utility classes.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"4OF29NF3HVBYQsrwPvVq\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "unicornstudio-aura-background-section"
+    },
+    {
+        "title": "UnicornStudio Interactive Project Embed",
+        "description": "HTML wrapper that embeds a UnicornStudio project, auto-loading the UnicornStudio UMD script and initializing it once for interactive experiences or animations on any webpage.",
+        "code": "<div data-us-project=\"tCcBHRpF4pd3u3hQXCm5\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.34/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-interactive-project-embed-2"
+    },
+    {
+        "title": "Unicorn Studio Interactive Background Embed",
+        "description": "Embeds a UnicornStudio project via a full-screen div and lazy-loads the UnicornStudio script to render interactive animated backgrounds. Utilizes Tailwind utility classes; suitable for landing pages, hero sections, or site-wide visual effects.",
+        "code": "<div data-us-project=\"mZq7XpvHyoo5yklnnqL9\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.34/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicorn-studio-interactive-background-embed"
+    },
+    {
+        "title": "UnicornStudio Full-Page Background Embed",
+        "description": "Embeds a full-width, full-height background powered by UnicornStudio. Auto-loads the UnicornStudio CDN script, initializes once, and positions behind content via Tailwind utility classes\u2014ideal for animated or interactive page backgrounds on landing pages or hero sections.",
+        "code": "<div data-us-project=\"x6cbPWi9roeeiZ8cuBu3\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-page-background-embed"
+    },
+    {
+        "title": "Full-Screen Animated Aura Background",
+        "description": "Renders a full-screen, gradient-masked aura background that loads UnicornStudio for animated visuals. Positioned absolutely with Tailwind classes; perfect for hero headers, landing pages, or section backdrops needing dynamic effects.",
+        "code": "<div class=\"aura-background-component top-0 w-full h-screen -z-10 absolute\" data-alpha-mask=\"100\"\n  style=\"; mask-image: linear-gradient(to bottom, transparent, black 0%, black 100%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 0%, black 100%, transparent)\">\n  <div data-us-project=\"ZPruWnhzwuk5Tf6nc1q0\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-screen-animated-aura-background-2"
+    },
+    {
+        "title": "Full-Screen Aura Background Integration",
+        "description": "Full-screen background component that loads an animated aura effect via UnicornStudio. Positioned absolutely behind page content with gradient masking for visual depth, ideal for hero sections or immersive landing pages.",
+        "code": "<div class=\"aura-background-component top-0 w-full h-screen -z-10 absolute saturate-150\" data-alpha-mask=\"80\"\n  style=\"mask-image: linear-gradient(transparent, black 0%, black 80%, transparent);\">\n  <div data-us-project=\"vi5SxDwDvEJMwkyTdyH8\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-screen-aura-background-integration"
+    },
+    {
+        "title": "Animated Aura Background with UnicornStudio",
+        "description": "Full-screen animated aura background overlay that loads UnicornStudio script for dynamic visuals. Tailwind utility classes position it absolutely behind content, ideal for landing pages, hero sections, and immersive UI backgrounds.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"BqS5vTHVEpn6NiF0g8iJ\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-with-unicornstudio-2"
+    },
+    {
+        "title": "Animated Aura Background Component",
+        "description": "Full-screen, absolute-positioned background layer that loads Unicorn Studio to render animated aura visuals. Adds dynamic, responsive effects behind page content\u2014ideal for hero sections, headers, or immersive landing pages.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"TIWE0oFfvUmetsFoxL6u\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-component"
+    },
+    {
+        "title": "Animated Aura Background Section",
+        "description": "Full-width animated aura background container using UnicornStudio. Applies a vertical gradient mask and loads an external script to render dynamic visuals behind page content. Ideal for hero sections or page backgrounds needing subtle motion effects.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-[800px]\" data-alpha-mask=\"80\"\n  style=\"; mask-image: linear-gradient(to bottom, transparent, black 0%, black 80%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 0%, black 80%, transparent)\">\n  <div data-us-project=\"7BChNsgjdoJkLPEpWhX3\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\" class=\"\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.34/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-section"
+    },
+    {
+        "title": "UnicornStudio Animated Aura Background",
+        "description": "Full-screen overlay that loads UnicornStudio to render an animated aura/particle background. Positioned absolute with utility classes (Tailwind-like) and accepts project ID via data attribute. Ideal for hero sections or entire page backdrops.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"vTTCp5g4cVl9nwjlT56Z\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "unicornstudio-animated-aura-background"
+    },
+    {
+        "title": "Gradient Masked Aura Background Embed",
+        "description": "Absolute-positioned aura background component that embeds a UnicornStudio project with a vertical gradient mask. Ideal for decorative animated backgrounds behind hero or section content, using a script loader and pointer-events disabled overlay.",
+        "code": "<div class=\"aura-background-component inset-0 z-0 pointer-events-none absolute h-[800px]\" data-alpha-mask=\"33\"\n  style=\"; mask-image: linear-gradient(to bottom, transparent, black 0%, black 33%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 0%, black 33%, transparent)\">\n  <div data-us-project=\"4Mhsd9KPKdz4ri3R6J99\" class=\"absolute inset-0 z-0 w-full h-full\"></div>\n  <script type=\"text/javascript\" class=\"\">\n    !function(){\n          if(!window.UnicornStudio){\n            window.UnicornStudio={isInitialized:!1};\n            var i=document.createElement(\"script\");\n            i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\";\n            i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)};\n            (document.head||document.body).appendChild(i)\n          }\n        }();\n  </script>\n</div>",
+        "id": "gradient-masked-aura-background-embed"
+    },
+    {
+        "title": "Full-Screen Aura Background with Gradient Mask",
+        "description": "Full-screen background component integrating a UnicornStudio project with a vertical gradient mask using CSS mask-image. Ideal for animated or dynamic hero/landing page backgrounds that sit behind main content.",
+        "code": "<div class=\"aura-background-component absolute top-0 w-full h-screen -z-10 saturate-200\" data-alpha-mask=\"22\"\n  style=\"mask-image:linear-gradient(to bottom, transparent, black 0%, black 22%, transparent); -webkit-mask-image:linear-gradient(to bottom, transparent, black 0%, black 22%, transparent)\">\n  <div data-us-project=\"0GgYfjJbH7HPIFyF1fSt\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n  <script>\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head||document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-screen-aura-background-with-gradient-mask"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container",
+        "description": "Embeds a UnicornStudio project by ID, loading the unicornStudio script asynchronously to render interactive or animated content within a fixed-size div. Ideal for adding branded animations or mini-apps to landing pages and marketing sites.",
+        "code": "<div data-us-project=\"GE8mpmmCRgK6XBF57jgF\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.33/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container-4"
+    },
+    {
+        "title": "UnicornStudio Full-Page Background Animation Embed",
+        "description": "Embeds a full-screen, behind-content background powered by UnicornStudio.js. Automatically loads the library and initializes a project via data attribute, ideal for animated hero sections or immersive site backgrounds.",
+        "code": "<div data-us-project=\"ojBMr9PbDiBpKIrmzIHh\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-page-background-animation-embed"
+    },
+    {
+        "title": "Fullscreen Aura Background Effect",
+        "description": "Fullscreen fixed background component that loads an animated aura effect via UnicornStudio. Uses masking with linear gradients for top and bottom fade and covers the entire viewport, suitable as a decorative background layer.",
+        "code": "<div class=\"aura-background-component top-0 w-full h-screen -z-10 fixed\" data-alpha-mask=\"47\"\n  style=\"; mask-image: linear-gradient(to bottom, transparent, black 0%, black 47%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 0%, black 47%, transparent)\">\n  <div data-us-project=\"3eLGLP7pmQS4ozfklmrX\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n  <script type=\"text/javascript\" class=\"\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "fullscreen-aura-background-effect"
+    },
+    {
+        "title": "UnicornStudio Project Embed Wrapper",
+        "description": "Full-screen, absolute-positioned div that auto-loads UnicornStudio JS to render a specified project ID, enabling easy embedding of interactive or animated backgrounds on any page.",
+        "code": "<div data-us-project=\"uR8HtEUgEAOiY69U0vP3\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.34/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-wrapper"
+    },
+    {
+        "title": "Animated Aura Background Component",
+        "description": "Full-screen background element that injects UnicornStudio script to render an animated aura effect behind page content. Uses utility classes resembling Tailwind for absolute positioning; ideal for hero sections or immersive page headers.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"vRUeei6AVOtWgmHT28mN\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-component-2"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container",
+        "description": "HTML container and script to embed and initialize a UnicornStudio project, enabling seamless display of interactive designs or animations on any webpage with configurable size.",
+        "code": "<div data-us-project=\"NF45R8TGBmFLTWXdpK0C\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.34/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container-5"
+    },
+    {
+        "title": "Animated Aura Background Component",
+        "description": "Interactive animated background with gradient mask overlay and customizable opacity effects. Features UnicornStudio integration for dynamic visual elements.",
+        "code": "<div class=\"relative w-full h-[900px] -z-10 bg-gradient-to-b\n  from-purple-900/20 via-blue-900/30 to-black/40 brightness-50\n  saturate-50\"\n  style=\"mask-image: linear-gradient(to bottom, transparent, black 0%, black 62%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 0%, black 62%, transparent)\"\n  data-alpha-mask=\"62\">\n  <div data-us-project=\"MSvSkmJb9Ax55PeV6eku\" class=\"absolute w-full h-full left-0 top-0 -z-10 bg-gradient-to-br\n    from-indigo-600/20 via-purple-600/20 to-pink-600/20\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.33/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "animated-aura-background-component-3"
+    },
+    {
+        "title": "UnicornStudio Full-Screen Background Integration",
+        "description": "Embeds a UnicornStudio project using a project ID, loads the CDN script once, and initializes it behind all content via a full-width, full-height, absolute div. Ideal for adding interactive animated backgrounds to Tailwind-styled pages.",
+        "code": "<div data-us-project=\"qF3qXhdiOxdUeQYH8wCK\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-screen-background-integration"
+    },
+    {
+        "title": "Unicorn Studio Project Embed",
+        "description": "Embeds a Unicorn Studio project in a fixed 1920\u00d71080 div and auto-loads the UnicornStudio CDN script for initialization. Ideal for adding interactive prototypes or rich media experiences to any webpage.",
+        "code": "<div data-us-project=\"cqcLtDwfoHqqRPttBbQE\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicorn-studio-project-embed-2"
+    },
+    {
+        "title": "Aura Background Hero Effect",
+        "description": "Full-width aura background component that embeds a UnicornStudio animated project with gradient masking and visual filters. Ideal for enhancing hero sections, landing pages, or headers with a dynamic, animated backdrop.",
+        "code": "<div class=\"aura-background-component w-full absolute top-0 hue-rotate-15 saturate-150 brightness-125 h-[700px]\"\n  data-alpha-mask=\"80\" style=\"mask-image: linear-gradient(transparent, black 0%, black 80%, transparent);\">\n  <div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\" style=\"\">\n    <div data-us-project=\"opxjeAzlg0dkUUVGEZri\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n    <script type=\"text/javascript\">\n      !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n    </script>\n  </div>",
+        "id": "aura-background-hero-effect"
+    },
+    {
+        "title": "UnicornStudio Full-Screen Background Animation Embed",
+        "description": "Embeds a UnicornStudio project as a full-screen, behind-content background. Lazy-loads and initializes the library once, styled with Tailwind utilities\u2014ideal for animated page backdrops.",
+        "code": "<div data-us-project=\"hQmuxsIsbhqg99eGrTZM\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-screen-background-animation-embed"
+    },
+    {
+        "title": "UnicornStudio Full-Screen Animated Background Overlay",
+        "description": "Embeds a full-screen background powered by UnicornStudio. A div spans the viewport with absolute positioning and negative z-index, while a script dynamically loads and initializes the animation library. Ideal for adding interactive, animated backdrops to pages or sections.",
+        "code": "<div data-us-project=\"HdjashRo4wTSBCkmyniU\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-screen-animated-background-overlay"
+    },
+    {
+        "title": "Full-Width Animated Aura Background Component",
+        "description": "Renders a full-screen aura background effect powered by Unicorn Studio. Uses Tailwind utility classes for positioning and layering, auto-loads external script, ideal for hero sections or entire page backgrounds requiring subtle animated visuals.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"JUFg0MwEcM3urKc9W7Vg\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-width-animated-aura-background-component"
+    },
+    {
+        "title": "UnicornStudio Full-Screen Background Embed",
+        "description": "Embeds a UnicornStudio project as a full-screen, behind-content background. Automatically loads and initializes the UnicornStudio script, ideal for adding animated visual effects to landing pages or sections.",
+        "code": "<div data-us-project=\"rOckgwd0fvktpb8agzJw\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.31/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-screen-background-embed"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container",
+        "description": "Embeds a UnicornStudio project using a sized div and auto-loading script from CDN. Initializes once, displaying interactive prototypes or micro-apps within any webpage.",
+        "code": "<div data-us-project=\"qTiAlX0sxkuBOAiL7qHL\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container-6"
+    },
+    {
+        "title": "UnicornStudio Aura Background Component",
+        "description": "Full-width, full-height background layer that auto-loads UnicornStudio to render an animated aura effect. Uses Tailwind utility classes; ideal for hero sections or page overlays needing a dynamic backdrop.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"5UmJmFVVxnDOIkdUYRnh\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "unicornstudio-aura-background-component"
+    },
+    {
+        "title": "Full-width Animated Aura Background (Unicorn Studio)",
+        "description": "Absolute full-screen background component that injects UnicornStudio.js to display a responsive, animated aura effect behind page content\u2014ideal for hero sections, landing pages, or immersive UI backgrounds.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"2IcJ39Gx68KiPG1qlgj8\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-width-animated-aura-background-(unicorn-studio)"
+    },
+    {
+        "title": "Unicorn Studio Project Embed",
+        "description": "Embeds and initializes a UnicornStudio project with a single div and dynamic script load, enabling display of interactive content on any webpage.",
+        "code": "<div data-us-project=\"Vpa6JQ9WnxiC9cgDUWnu\" class=\"absolute top-0 left-0 w-full h-full -z-10\"></div><script type=\"text/javascript\">!function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();</script>",
+        "id": "unicorn-studio-project-embed-3"
+    },
+    {
+        "title": "Full-Screen UnicornStudio Project Embed",
+        "description": "Embeds a UnicornStudio project in an absolute, full-width/height div and dynamically loads the UnicornStudio CDN script. Adds interactive animations or backgrounds to landing pages or apps. Uses Tailwind utility classes for positioning.",
+        "code": "<div data-us-project=\"Cp839hKFEhq3vBXM2ZqP\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "full-screen-unicornstudio-project-embed"
+    },
+    {
+        "title": "UnicornStudio Project Embed Widget",
+        "description": "Embeds a UnicornStudio project via script. Loads the UnicornStudio UMD library, auto-initializes the project by ID, and displays the interactive prototype in a fixed 1440\u00d7900 container\u2014ideal for showcasing design demos or marketing microsites.",
+        "code": "<div data-us-project=\"qPVvnWEWLLiJgYtSkKyB\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-widget"
+    },
+    {
+        "title": "Full-Screen Aura Background with UnicornStudio",
+        "description": "Absolute, full-viewport background that loads UnicornStudio to render an animated aura effect behind page content. Uses Tailwind utility classes; ideal for hero sections, landing pages or any layout needing a subtle animated backdrop.",
+        "code": "<div class=\"aura-background-component top-0 w-full -z-10 absolute h-full\">\n  <div data-us-project=\"yaha7Bz5f3cRBAa5js9K\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n  <script type=\"text/javascript\">\n    !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n  </script>\n</div>",
+        "id": "full-screen-aura-background-with-unicornstudio"
+    },
+    {
+        "title": "UnicornStudio Project Embed Snippet",
+        "description": "Embeds a UnicornStudio project as a full-screen, z-index-negative layer and auto-loads the UnicornStudio UMD script from CDN for interactive visual effects or animated backgrounds.",
+        "code": "<div data-us-project=\"ldSPs61pMXFeTBXsCNfX\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-snippet"
+    },
+    {
+        "title": "UnicornStudio Full-Screen Background Embed",
+        "description": "Embeds a UnicornStudio project as an absolute, full-width/height background, auto-loading the UnicornStudio UMD script to initialize interactive visuals behind page content. Ideal for hero sections or immersive site backgrounds.",
+        "code": "<div data-us-project=\"hk4GkXoEfSX9qZozoFL6\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.31/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-screen-background-embed-2"
+    },
+    {
+        "title": "UnicornStudio Animated Background Loader",
+        "description": "Embeds a UnicornStudio project as a full-screen, behind-content animated background. Automatically loads and initializes the UnicornStudio JS library with Tailwind positioning utilities. Ideal for hero sections, landing pages, or immersive page backgrounds.",
+        "code": "<div data-us-project=\"pSxbKYCCk7vGhrLFRLrG\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-animated-background-loader"
+    },
+    {
+        "title": "UnicornStudio Background Project Embed",
+        "description": "Embeds a UnicornStudio project as a full-page background. The script dynamically loads and initializes the UnicornStudio library once, while Tailwind classes position the container absolutely to cover the viewport. Ideal for adding animated, interactive backgrounds to sites.",
+        "code": "<div data-us-project=\"sx6OtkwOFbqONd0P4xRy\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.31/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-background-project-embed"
+    },
+    {
+        "title": "UnicornStudio Full-Screen Background Embed",
+        "description": "Embeds a UnicornStudio project as a full-page animated background. Loads the UnicornStudio CDN script once, auto-initializes, and uses Tailwind classes for absolute, full-width/height positioning. Ideal for adding interactive visual effects behind site content.",
+        "code": "<div data-us-project=\"qPVvnWEWLLiJgYtSkKyB\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-full-screen-background-embed-3"
+    },
+    {
+        "title": "Full-Screen Animated Background via UnicornStudio",
+        "description": "Embeds a UnicornStudio project as a full-width, full-height background layer. The script dynamically loads the UnicornStudio library and initializes the effect, ideal for adding interactive or animated visuals behind page content in Tailwind-styled layouts.",
+        "code": "<div data-us-project=\"VHdphegF30v2j1bserOH\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.31/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "full-screen-animated-background-via-unicornstudio"
+    },
+    {
+        "title": "UnicornStudio Library Initialization Snippet",
+        "description": "Embeds and initializes UnicornStudio v1.4.30 via a full-screen, behind-content div. Automatically loads the external UMD script and runs UnicornStudio.init() on page load. Suitable for adding UnicornStudio analytics or widgets to any webpage.",
+        "code": "<div data-us-project=\"HrR4RrsSf8RcKjStWKwR\" class=\"absolute w-full h-full left-0 top-0 -z-10\"><script type=\"text/javascript\">!function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.30/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();</script>",
+        "id": "unicornstudio-library-initialization-snippet"
+    },
+    {
+        "title": "UnicornStudio Interactive Project Embed",
+        "description": "Container div and loader script that embed a specified UnicornStudio project (via project ID) and auto-initialize the UnicornStudio runtime. Useful for integrating interactive animations or microsites into web pages.",
+        "code": "<div data-us-project=\"98LbxUn5KV3Z8vHICb6u\" class=\"absolute w-full h-full top-0 left-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-interactive-project-embed-3"
+    },
+    {
+        "title": "Full-Screen Animated Background with UnicornStudio",
+        "description": "Embeds a full-viewport animated background powered by UnicornStudio. Dynamically loads the library, initializes once, and displays a specified project behind all content. Ideal for adding interactive visual effects to Tailwind-styled pages or hero sections.",
+        "code": "<div data-us-project=\"XKOypOfa1PB1AP8SFWUj\" class=\"absolute top-0 left-0 -z-10 w-full h-full\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "full-screen-animated-background-with-unicornstudio"
+    },
+    {
+        "title": "UnicornStudio Project Embed Container",
+        "description": "HTML snippet that embeds a UnicornStudio project by loading its SDK and initializing the experience within a fixed-size div. Ideal for integrating interactive UnicornStudio content into web pages or React apps.",
+        "code": "<div data-us-project=\"eRAhaP1vDDHsWMBlk6WH\" class=\"absolute inset-0 -z-10\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.29/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "unicornstudio-project-embed-container-7"
+    },
+    {
+        "title": "UnicornStudio Embedded Background Canvas",
+        "description": "Absolute-positioned full-page background container that loads and initializes a UnicornStudio project via external script. Ideal for embedding interactive or animated visual backgrounds behind page content.",
+        "code": "<div data-us-project=\"Jv9KbHuCYWf4sr35MmdO\" class=\"absolute w-full h-full left-0 top-0 -z-10\"></div><script type=\"text/javascript\">!function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.4.36/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();</script>",
+        "id": "unicornstudio-embedded-background-canvas-2"
+    },
+    {
+        "title": "Embedded Unicorn Studio Canvas",
+        "description": "Embeds a Unicorn Studio project canvas via script, loading an external interactive or animated experience into a fixed 1440x900 container. Useful for adding rich visual or interactive backgrounds or showcases to a page.",
+        "code": "<div data-us-project=\"LDFQMXW7Gj9CEU72v8Kg\" style=\"width:1440px; height: 900px\"></div>\n<script type=\"text/javascript\">\n  !function(){if(!window.UnicornStudio){window.UnicornStudio={isInitialized:!1};var i=document.createElement(\"script\");i.src=\"https://cdn.jsdelivr.net/gh/hiunicornstudio/unicornstudio.js@v1.5.2/dist/unicornStudio.umd.js\",i.onload=function(){window.UnicornStudio.isInitialized||(UnicornStudio.init(),window.UnicornStudio.isInitialized=!0)},(document.head || document.body).appendChild(i)}}();\n</script>",
+        "id": "embedded-unicorn-studio-canvas"
+    }
+]
