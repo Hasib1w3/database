@@ -1,368 +1,383 @@
 [
-    {
-        "title": "Full-Screen 3D Spline Background Embed",
-        "description": "Embeds a Spline 3D scene in an absolute, full-screen container using Tailwind utility classes. Provides an animated, interactive background effect suitable for hero sections or immersive pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/glowingplanetparticles-nhVHji30IRoa5HBGe8yeDiTs\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-3d-spline-background-embed"
-    },
-    {
-        "title": "Full-Page Spline 3D Background Embed",
-        "description": "Absolute-positioned container hosting a Spline iframe that fills the viewport, providing an animated 3D background for pages or hero sections. Uses Tailwind utility classes and suits immersive, interactive UI designs.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full z-0\"><iframe\n    src=\"https://my.spline.design/glowingplanetparticles-HmCVKutonlFn3Oqqe6DI9nWi/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-page-spline-3d-background-embed"
-    },
-    {
-        "title": "Full-Screen Spline Background Animation",
-        "description": "Embeds a responsive Spline iframe with space-particle animation, absolutely positioned to cover the entire viewport for decorative, dynamic backgrounds on landing pages or hero sections. Utilizes Tailwind utility classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/glasswave-6HLEnvJfCRsq1aKT2xqlgme7\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-animation"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute container with Tailwind classes that embeds a responsive, full-width and full-height Spline iframe behind page content. Provides an interactive 3D background ideal for hero sections, landing pages, or immersive UI scenes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/aidatamodelinteraction-mdTL3FktFVHgDvFr5TKtnYDV\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed"
-    },
-    {
-        "title": "Fullscreen Spline 3D Background Embed",
-        "description": "Embeds a Spline 3D scene in an absolute, full-screen container using Tailwind utility classes, ideal for dynamic hero backgrounds or immersive page sections.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/dunes-3fd4468737972c9a084de27efa2263c4\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "fullscreen-spline-3d-background-embed"
-    },
-    {
-        "title": "Full-Viewport Spline 3D Background Container",
-        "description": "Absolute-positioned container embedding a Spline iframe as a full-viewport animated 3D background, ideal for hero sections or page backdrops. Styled with Tailwind utility classes for easy layering and responsive fit.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/herolightcopy-HWuYMA6IdNGk0VGuyvrItNGB\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-viewport-spline-3d-background-container"
-    },
-    {
-        "title": "Full-Page Spline 3D Background Embed",
-        "description": "Absolute-positioned container that fills the viewport and embeds an interactive Spline 3D scene via iframe, ideal for animated backgrounds on hero sections or landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/liquidring-PGc8zQXZyDUpVFvWNgohNZnv\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
-        "id": "full-page-spline-3d-background-embed-2"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds a responsive, full-viewport Spline 3D scene via iframe, positioned absolutely behind page content\u2014ideal for animated hero sections or immersive backgrounds in Tailwind-styled sites.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/crystalball-de222de54d6fc4752fa850b54fb654de/\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-2"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds a Spline 3D scene in an absolute, full-viewport container with negative z-index, creating an animated background layer for hero sections or landing pages. Styled with utility classes similar to Tailwind.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/radialglass-20RYcJn9wbsEb5QEYkazHjpb\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-3"
-    },
-    {
-        "title": "Spline 3D Background Embed",
-        "description": "A fullscreen 3D background iframe embedding Spline's glowing planet particles animation. Provides immersive space-themed visual backdrop for applications.",
-        "code": "<div class=\"spline-container fixed top-0 w-full h-screen -z-10\">\n  <iframe src=\"https://my.spline.design/glowingplanetparticles-oNju9tQxB1nyaHSc0bBhpEAE\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\" class=\"w-full h-full\"></iframe>\n</div>",
-        "id": "spline-3d-background-embed"
-    },
-    {
-        "title": "Full-Screen Spline Background Embed",
-        "description": "Absolute-positioned container that embeds a Spline iframe as a full-screen animated background behind content. Utilizes Tailwind CSS utilities and suits hero headers or immersive pages needing a lightweight 3D backdrop.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/animatedbackgroundgradientforweb-jvJDeBWjMvShkjPKxPRUswLq\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-embed"
-    },
-    {
-        "title": "Full-Screen 3D Spline Background Embed",
-        "description": "Embeds a full-viewport Spline scene via iframe, positioned behind content with Tailwind utilities; great for interactive hero sections, landing pages, or immersive backgrounds.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/nexbotrobotcharacterconcept-kLwr8f6hgKgaa5gmU6oB00Si\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-3d-spline-background-embed-2"
-    },
-    {
-        "title": "Fullscreen 3D Gradient Background (Spline Embed)",
-        "description": "Absolute-positioned container embedding a Spline iframe to render an interactive, full-screen 3D gradient backdrop. Uses Tailwind utility classes, sits behind content with negative z-index. Ideal for hero headers or immersive landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/3dgradient-AcpgG6LxFkpnJSoowRHPfcbO\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
-        "id": "fullscreen-3d-gradient-background-(spline-embed)"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute, full-width/height container embedding a Spline iframe as a low-z-index background. Adds interactive 3D visuals behind page content; styled with Tailwind utility classes for easy integration into React or HTML layouts.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/aidatamodelinteraction-jipMLzxI5liMrspqcm4GRWTh\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-4"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds a responsive, full-viewport Spline iframe as an absolute-positioned background element using Tailwind classes; ideal for animated 3D visuals behind hero sections or landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/flowingribbon-TlkEaNrvCCNZuJBNJN3LXpRF\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
-        "id": "full-screen-spline-3d-background-embed-5"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Component",
-        "description": "Embeds a Spline iframe as a full-viewport 3D animated background positioned behind all content with Tailwind utility classes; useful for hero sections, landing pages, or immersive layouts.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/untitled-f680ea749fc30deeb5eff5a8b15b2f63\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-component"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute, full-viewport container with Tailwind classes embedding a Spline iframe to render an animated 3D background. Suited for immersive hero sections, landing pages, or dynamic wallpapers.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone14wallpaper9copy-d98969f84b43360bb0c164413b743e10\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-6"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute-positioned container that fills the viewport and embeds a Spline iframe, creating an animated 3D background for pages or hero sections. Styled with Tailwind utility classes and ideal for immersive, decorative backdrops.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/3dglassherobg-xhxFCKvVSQv5b7qPD9xIZ5yC\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-7"
-    },
-    {
-        "title": "Full-Screen Spline Background Animation",
-        "description": "Embeds a Spline 3D particle animation in an absolute, full-width/height iframe with negative z-index, creating an animated background layer ideal for hero sections or landing pages styled with Tailwind classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/waveform-gm8Mc7BoEALZZ8ggTHi5kSGc\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-animation-2"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute-positioned container that embeds a Spline 3D scene via iframe, spans full viewport, sits behind content using Tailwind utilities. Ideal for interactive or animated backgrounds on landing pages and hero sections.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/twistcopy-CPActtgUfoQoOToZfH4Pt18Q\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-8"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds a Spline scene in a full-viewport iframe positioned behind all content with Tailwind utilities, enabling interactive 3D backgrounds for hero sections or landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/claritystream-a72K0KUwFoZV82QBzvu52Kai\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-9"
-    },
-    {
-        "title": "Full-Screen Spline Background Animation",
-        "description": "Absolute-positioned container that embeds a full-viewport Spline 3D animation via iframe. Tailwind utility classes place it behind content for dynamic, particle-style backgrounds in hero sections, landing pages, or immersive layouts.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/particlesmoment-kW3xyVny6weIhXJ3vbs2M2bB\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-animation-3"
-    },
-    {
-        "title": "Full-Screen Spline Animation Background",
-        "description": "Embeds a Spline iframe as an absolute, full-viewport background using Tailwind classes; ideal for animated hero sections, landing pages, or immersive UI effects.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/retrofuturisticcircuitloop-JngSBMetOQh9Jn4XS5OxTiIc/\" frameborder=\"0\"\n    width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-animation-background"
-    },
-    {
-        "title": "Animated WebGL Plasma Grid Background Canvas",
-        "description": "Full-screen HTML canvas rendering a purple/blue plasma grid via custom WebGL shaders. Auto-resizes and animates continuously, ideal for hero sections, landing pages, or interactive visual backdrops.",
-        "code": "<canvas id=\"canvas\" class=\"absolute w-full h-full top-0 left-0 -z-10\">\n  <script>\n    // Initialize WebGL\n    const canvas = document.getElementById('canvas');\n    const gl = canvas.getContext('webgl');\n    \n    if (!gl) {\n        alert('WebGL not supported in your browser');\n    }\n    \n    // Vertex shader program\n    const vsSource = `\n        attribute vec4 aVertexPosition;\n        void main() {\n            gl_Position = aVertexPosition;\n        }\n    `;\n    \n    // Fragment shader program (from your provided shader code)\n    const fsSource = `\n        precision highp float;\n        uniform vec2 iResolution;\n        uniform float iTime;\n        \n        const float overallSpeed = 0.2;\n        const float gridSmoothWidth = 0.015;\n        const float axisWidth = 0.05;\n        const float majorLineWidth = 0.025;\n        const float minorLineWidth = 0.0125;\n        const float majorLineFrequency = 5.0;\n        const float minorLineFrequency = 1.0;\n        const vec4 gridColor = vec4(0.5);\n        const float scale = 5.0;\n        // Modified color to purple/blue\n        const vec4 lineColor = vec4(0.4, 0.2, 0.8, 1.0);\n        // Lines are thinner now\n        const float minLineWidth = 0.01;\n        const float maxLineWidth = 0.2;\n        const float lineSpeed = 1.0 * overallSpeed;\n        const float lineAmplitude = 1.0;\n        const float lineFrequency = 0.2;\n        const float warpSpeed = 0.2 * overallSpeed;\n        const float warpFrequency = 0.5;\n        const float warpAmplitude = 1.0;\n        const float offsetFrequency = 0.5;\n        const float offsetSpeed = 1.33 * overallSpeed;\n        const float minOffsetSpread = 0.6;\n        const float maxOffsetSpread = 2.0;\n        const int linesPerGroup = 16;\n        \n        #define drawCircle(pos, radius, coord) smoothstep(radius + gridSmoothWidth, radius, length(coord - (pos)))\n        #define drawSmoothLine(pos, halfWidth, t) smoothstep(halfWidth, 0.0, abs(pos - (t)))\n        #define drawCrispLine(pos, halfWidth, t) smoothstep(halfWidth + gridSmoothWidth, halfWidth, abs(pos - (t)))\n        #define drawPeriodicLine(freq, width, t) drawCrispLine(freq / 2.0, width, abs(mod(t, freq) - (freq) / 2.0))\n        \n        float drawGridLines(float axis) {\n            return drawCrispLine(0.0, axisWidth, axis)\n                  + drawPeriodicLine(majorLineFrequency, majorLineWidth, axis)\n                  + drawPeriodicLine(minorLineFrequency, minorLineWidth, axis);\n        }\n        \n        float drawGrid(vec2 space) {\n            return min(1.0, drawGridLines(space.x) + drawGridLines(space.y));\n        }\n        \n        float random(float t) {\n            return (cos(t) + cos(t * 1.3 + 1.3) + cos(t * 1.4 + 1.4)) / 3.0;   \n        }\n        \n        float getPlasmaY(float x, float horizontalFade, float offset) {\n            return random(x * lineFrequency + iTime * lineSpeed) * horizontalFade * lineAmplitude + offset;\n        }\n        \n        void main() {\n            vec2 fragCoord = gl_FragCoord.xy;\n            vec4 fragColor;\n            \n            vec2 uv = fragCoord.xy / iResolution.xy;\n            vec2 space = (fragCoord - iResolution.xy / 2.0) / iResolution.x * 2.0 * scale;\n            \n            float horizontalFade = 1.0 - (cos(uv.x * 6.28) * 0.5 + 0.5);\n            float verticalFade = 1.0 - (cos(uv.y * 6.28) * 0.5 + 0.5);\n        \n            // Wind/turbulence effect\n            space.y += random(space.x * warpFrequency + iTime * warpSpeed) * warpAmplitude * (0.5 + horizontalFade);\n            space.x += random(space.y * warpFrequency + iTime * warpSpeed + 2.0) * warpAmplitude * horizontalFade;\n            \n            vec4 lines = vec4(0.0);\n            // Updated background colors to blue/purple gradient\n            vec4 bgColor1 = vec4(0.1, 0.1, 0.3, 1.0);\n            vec4 bgColor2 = vec4(0.3, 0.1, 0.5, 1.0);\n            \n            for(int l = 0; l < linesPerGroup; l++) {\n                float normalizedLineIndex = float(l) / float(linesPerGroup);\n                float offsetTime = iTime * offsetSpeed;\n                float offsetPosition = float(l) + space.x * offsetFrequency;\n                float rand = random(offsetPosition + offsetTime) * 0.5 + 0.5;\n                float halfWidth = mix(minLineWidth, maxLineWidth, rand * horizontalFade) / 2.0;\n                float offset = random(offsetPosition + offsetTime * (1.0 + normalizedLineIndex)) * mix(minOffsetSpread, maxOffsetSpread, horizontalFade);\n                float linePosition = getPlasmaY(space.x, horizontalFade, offset);\n                float line = drawSmoothLine(linePosition, halfWidth, space.y) / 2.0 + drawCrispLine(linePosition, halfWidth * 0.15, space.y);\n                \n                float circleX = mod(float(l) + iTime * lineSpeed, 25.0) - 12.0;\n                vec2 circlePosition = vec2(circleX, getPlasmaY(circleX, horizontalFade, offset));\n                float circle = drawCircle(circlePosition, 0.01, space) * 4.0;\n                \n                line = line + circle;\n                lines += line * lineColor * rand;\n            }\n            \n            fragColor = mix(bgColor1, bgColor2, uv.x);\n            fragColor *= verticalFade;\n            fragColor.a = 1.0;\n            // Debug grid:\n            // fragColor = mix(fragColor, gridColor, drawGrid(space));\n            fragColor += lines;\n            \n            gl_FragColor = fragColor;\n        }\n    `;\n    \n    // Initialize shaders\n    function initShaderProgram(gl, vsSource, fsSource) {\n        const vertexShader = loadShader(gl, gl.VERTEX_SHADER, vsSource);\n        const fragmentShader = loadShader(gl, gl.FRAGMENT_SHADER, fsSource);\n        \n        const shaderProgram = gl.createProgram();\n        gl.attachShader(shaderProgram, vertexShader);\n        gl.attachShader(shaderProgram, fragmentShader);\n        gl.linkProgram(shaderProgram);\n        \n        if (!gl.getProgramParameter(shaderProgram, gl.LINK_STATUS)) {\n            console.error('Unable to initialize the shader program: ' + gl.getProgramInfoLog(shaderProgram));\n            return null;\n        }\n        \n        return shaderProgram;\n    }\n    \n    function loadShader(gl, type, source) {\n        const shader = gl.createShader(type);\n        gl.shaderSource(shader, source);\n        gl.compileShader(shader);\n        \n        if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {\n            console.error('An error occurred compiling the shaders: ' + gl.getShaderInfoLog(shader));\n            gl.deleteShader(shader);\n            return null;\n        }\n        \n        return shader;\n    }\n    \n    // Create shader program\n    const shaderProgram = initShaderProgram(gl, vsSource, fsSource);\n    \n    // Setup geometry (a quad that fills the screen)\n    const positionBuffer = gl.createBuffer();\n    gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);\n    const positions = [\n        -1.0, -1.0,\n          1.0, -1.0,\n        -1.0,  1.0,\n          1.0,  1.0,\n    ];\n    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(positions), gl.STATIC_DRAW);\n    \n    // Setup attributes and uniforms\n    const programInfo = {\n        program: shaderProgram,\n        attribLocations: {\n            vertexPosition: gl.getAttribLocation(shaderProgram, 'aVertexPosition'),\n        },\n        uniformLocations: {\n            resolution: gl.getUniformLocation(shaderProgram, 'iResolution'),\n            time: gl.getUniformLocation(shaderProgram, 'iTime'),\n        },\n    };\n    \n    // Resize canvas to match window size\n    function resizeCanvas() {\n        canvas.width = window.innerWidth;\n        canvas.height = window.innerHeight;\n        gl.viewport(0, 0, canvas.width, canvas.height);\n    }\n    \n    window.addEventListener('resize', resizeCanvas);\n    resizeCanvas();\n    \n    // Animation loop\n    let startTime = Date.now();\n    function render() {\n        const currentTime = (Date.now() - startTime) / 1000; // time in seconds\n        \n        // Clear the canvas\n        gl.clearColor(0.0, 0.0, 0.0, 1.0);\n        gl.clear(gl.COLOR_BUFFER_BIT);\n        \n        // Use the shader program\n        gl.useProgram(programInfo.program);\n        \n        // Set uniforms\n        gl.uniform2f(programInfo.uniformLocations.resolution, canvas.width, canvas.height);\n        gl.uniform1f(programInfo.uniformLocations.time, currentTime);\n        \n        // Set vertex attributes\n        gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);\n        gl.vertexAttribPointer(\n            programInfo.attribLocations.vertexPosition,\n            2,         // 2 components per vertex\n            gl.FLOAT,  // the data is 32bit floats\n            false,     // don't normalize\n            0,         // stride\n            0          // offset\n        );\n        gl.enableVertexAttribArray(programInfo.attribLocations.vertexPosition);\n        \n        // Draw the quad\n        gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);\n        \n        requestAnimationFrame(render);\n    }\n    \n    requestAnimationFrame(render);\n  </script>\n</canvas>",
-        "id": "animated-webgl-plasma-grid-background-canvas"
-    },
-    {
-        "title": "Full-screen Spline 3D Background Embed",
-        "description": "Embeds a Spline-designed 3D animation in a full-screen, behind-content layer using Tailwind utility classes\u2014ideal for immersive animated page backgrounds.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/thresholddarkambientui-v0gkZCfi6zXm69kE0wccy70f\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-10"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds a responsive Spline iframe as a full-viewport, behind-content animated background using Tailwind utility classes. Ideal for dynamic hero sections or page backgrounds needing 3D motion.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/nexbotrobotcharacterconcept-FDt7cww2KDcL0RxmRfz1cZG7/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-11"
-    },
-    {
-        "title": "Fullscreen Spline 3D Background Embed",
-        "description": "Absolute-positioned container embedding a Spline iframe to render a fullscreen, interactive 3D glass-morph scene behind page content. Ideal for dynamic hero sections or landing pages using Tailwind utility classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/glassmorphlandingpage-nyOS3MRrg0GCft1x8mCtqPwk\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "fullscreen-spline-3d-background-embed-2"
-    },
-    {
-        "title": "Full-Screen 3D Spline Background Embed",
-        "description": "Embeds a Spline 3D scene via iframe and positions it as a full-screen, behind-content background using Tailwind utility classes. Ideal for hero sections or immersive pages needing animated visual depth.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/holographicearthwithdynamiclines-Txss0UBWNbhy4HVGL2xZX8mr\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
-        "id": "full-screen-3d-spline-background-embed-3"
-    },
-    {
-        "title": "Full-Screen Spline Background Embed",
-        "description": "Renders a full-viewport, absolutely positioned container that embeds an interactive Spline 3D scene via iframe, ideal for animated backgrounds in hero sections or landing pages. Utilizes Tailwind CSS utility classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full z-0\"><iframe\n    src=\"https://my.spline.design/glassmorphlandingpage-xQfGBqtFYIJ5g5Oisgpo1QF8/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-embed-2"
-    },
-    {
-        "title": "Full-screen Spline 3D Background Embed",
-        "description": "Embeds a Spline-hosted 3D scene via iframe as a fixed, full-screen background positioned behind other content using Tailwind utility classes. Ideal for adding interactive or animated 3D visuals to landing pages or hero sections.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/unchained-d3hHCgdWho7a8ATGzKtB11TU\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-12"
-    },
-    {
-        "title": "Full-Page Spline 3D Background",
-        "description": "Embeds a Spline 3D scene as a full-screen, animated background via iframe. Positioned absolute with Tailwind utilities to sit behind content; ideal for hero sections or immersive landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/worldplanet-inmHh7fVCul1jUFrNRYlotVU\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-page-spline-3d-background"
-    },
-    {
-        "title": "Full-Screen Animated Spline Gradient Background",
-        "description": "Absolutely positioned div embedding a Spline iframe to render a responsive, full-width and full-height liquid gradient animation. Ideal as an eye-catching animated background for hero sections, landing pages, or immersive web apps using Tailwind utility classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/liquidgradientabstractbackground-gEjylYLumN1b1CUcuIb8DyUA\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
-        "id": "full-screen-animated-spline-gradient-background"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds a Spline 3D scene in an absolute, full-screen container using Tailwind classes. Positioned behind content with negative z-index, it delivers interactive, responsive backgrounds for hero sections or immersive pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/orbit-XDLATgFZPQX6SO6dgJGqPwHD/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-13"
-    },
-    {
-        "title": "Full-Screen Spline Animated Background",
-        "description": "Embeds a Spline scene via iframe to create a full-viewport animated gradient backdrop, positioned behind all content with Tailwind utility classes. Ideal for modern hero sections or immersive landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/animatedgradientbackgroundforweb-uWFYyIpYVM3xYkd88RS2ewR8\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
-        "id": "full-screen-spline-animated-background"
-    },
-    {
-        "title": "Full-screen Spline Animation Background",
-        "description": "Absolute-positioned container that embeds a Spline 3D particles animation via iframe, creating a full-page animated background layer behind site content. Ideal for hero sections or immersive landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/particlesanimationcopy-BiEpR7tIQKZUMiStdu4jmTNF\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-animation-background-2"
-    },
-    {
-        "title": "Fullscreen Spline 3D Background Embed",
-        "description": "Absolute positioned div with Tailwind classes embeds a Spline iframe as a full-screen, behind-content animated 3D background for hero sections or pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/binarymaterialcopy-uzQoq9YUCPK8Sqz8n9uP5qMO\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "fullscreen-spline-3d-background-embed-3"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Animation",
-        "description": "Embeds a responsive, full-viewport Spline iframe to render a 3D particle portal animation behind all content using Tailwind utility classes; ideal for immersive hero sections, landing pages, or dynamic page backgrounds.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/fireparticleloaderanimationdrstrangeporta-2XtNK3LbyCGmClvus9SdgnYJ/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-animation"
-    },
-    {
-        "title": "Full-Screen Spline Background Animation",
-        "description": "Embeds a Spline 3D scene as a full-viewport animated background via iframe, positioned absolutely with Tailwind classes for use in hero sections or immersive landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/retrofuturismbganimation-Lb3VtL1bNaYUnirKNzn0FvaW\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-animation-4"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Container",
-        "description": "Embeds a Spline 3D scene in an absolute, full-viewport iframe positioned behind all content using Tailwind classes; ideal for animated page backgrounds or hero sections.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-0\"><iframe\n    src=\"https://my.spline.design/boxeshover-moTMLK3GQFBGQDftEiPF6OlW\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-container"
-    },
-    {
-        "title": "Full-Screen 3D Spline Background Container",
-        "description": "Absolute-positioned container that fills the viewport and embeds a Spline 3D scene via iframe, ideal for animated hero backgrounds or immersive section effects in Tailwind-styled pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/celestialflowabstractdigitalform-ObUlVgj70g2y4bbx5vBKSfxN/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-3d-spline-background-container"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute-positioned container that embeds a Spline scene via iframe, creating an animated, full-screen background behind page content. Ideal for immersive hero sections or landing pages using Tailwind utility classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone14wallpaper4copy-79eead3c8221db4e6fd870a3d5061aa0\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-14"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute-positioned container embedding a Spline iframe for a full-width, full-height interactive 3D background. Tailwind utility classes handle sizing and layering, ideal for hero sections or immersive landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/reactiveorb-s0GzgSco0uSVSXvwMHuJvPQs\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-15"
-    },
-    {
-        "title": "Full-Screen Spline Background Animation",
-        "description": "Embeds a Spline 3D particle animation in an iframe positioned absolutely to cover the entire viewport using Tailwind classes, delivering an animated backdrop for hero sections or full-page layouts.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/spaceparticlesanimation-UGnU6SB7nUK6sFI6N5WzasEx\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-animation-5"
-    },
-    {
-        "title": "Full-Screen Animated Spline Background",
-        "description": "Absolutely positioned container embedding a Spline iframe to render a full-width, full-height animated background pattern; ideal for hero sections or immersive pages using Tailwind utility classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/animatedshapeblend-1gCFHvLukjcmK6imbIAFLY2d/\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-animated-spline-background"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background",
-        "description": "Embeds a Spline-hosted 3D scene in a full-width, full-height iframe positioned absolutely behind content with Tailwind classes; ideal for animated, interactive backgrounds on hero or landing pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/advancedlightandshadowblurmaterial-AkTXlsUYXzV54u5a1pc75N0w/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute-positioned container embedding a Spline iframe as a full-width, full-height interactive 3D background, ideal for hero sections or immersive page headers. Tailwind utility classes handle positioning and layering behind content.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/radialpattern-hkyfBWXPTPO4g8csZKdL866B/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-16"
-    },
-    {
-        "title": "Full-Screen Spline Background Animation",
-        "description": "Embeds a full-viewport Spline 3D animation via iframe, positioned absolute with negative z-index to act as a dynamic background. Utilizes Tailwind classes; ideal for landing pages, hero sections, or any layout needing immersive visual flair.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/bganimation-xIKR0ZTWWoifZLAKROH7y9YL\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-background-animation-6"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Container",
-        "description": "Full-viewport container that embeds an interactive Spline 3D scene via iframe, positioned absolutely with Tailwind classes and negative z-index to serve as an animated page background or hero visual.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/chips-Lpmy2Q4HrMAxwGztMvtaZdY0\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-container-2"
-    },
-    {
-        "title": "Fullscreen Spline 3D Background Embed",
-        "description": "Absolute-positioned container using Tailwind classes embeds a responsive, full-viewport Spline 3D scene via iframe\u2014ideal for animated hero backgrounds or immersive section effects.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone15procopy-pmwnMexXbAOzhjJgYVtuY6kv\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "fullscreen-spline-3d-background-embed-4"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds an interactive Spline 3D scene in a full-viewport iframe, absolutely positioned behind all content using Tailwind utility classes. Ideal for dynamic hero sections or immersive landing page backgrounds.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone14wallpaper9copy-6e94be4fb0a16b265b124a4c7812adcf\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-17"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Container",
-        "description": "Absolute-positioned container that fills the viewport and embeds an interactive Spline 3D scene via iframe, creating an animated galaxy background for hero sections or entire pages. Styled with Tailwind utility classes for quick integration.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/galaxy-YxBchtLLMNxuqLPeF7XcyWOm\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-container-3"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolutely positioned container embeds a Spline iframe to render a full-viewport 3D animated background behind page content. Utilizes Tailwind utility classes; perfect for hero sections, landing pages, or immersive UI backgrounds.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/distortedspiralcopy-E3eftImqwWVDCs3VOeOacDLp\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-18"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Embeds an interactive Spline 3D scene as a full-viewport, behind-content background using Tailwind utility classes; ideal for adding animated, immersive visuals to landing pages or hero sections.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/ventura6copy-gWmPOZ1qp1cOuTsdDDOwPQ17\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-19"
-    },
-    {
-        "title": "Full-Page Spline 3D Background Embed",
-        "description": "Embeds a Spline 3D scene in a full-width, full-height iframe positioned absolutely behind page content using Tailwind utility classes. Ideal for animated hero sections or immersive landing page backgrounds.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full z-0\"><iframe\n    src=\"https://my.spline.design/font-PoWAh7XBlgAoAcENsaYMuA9u/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-page-spline-3d-background-embed-3"
-    },
-    {
-        "title": "Full-Screen 3D Spline Background Embed",
-        "description": "Absolute-positioned container embedding a Spline iframe as a full-screen animated 3D background layer. Utilizes Tailwind CSS utilities; ideal for hero sections, landing pages, or immersive UI experiences.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/frosteddimensions-4Slc8q0uvEA7gyyqsnA5RasX/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-3d-spline-background-embed-4"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background",
-        "description": "Provides a full-viewport, absolutely positioned iframe that embeds a Spline 3D scene as an animated background, sitting behind all content. Ideal for hero sections or immersive pages using Tailwind utility classes.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/crystalball-2xfDjbH6YAl4dFHRGQCWobQt\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-2"
-    },
-    {
-        "title": "Full-Screen Spline Background Iframe",
-        "description": "Embeds a Spline 3D scene in a full-width, full-height absolutely positioned iframe behind page content, creating an animated background for hero sections, landing pages, or decorative layouts. Utilizes Tailwind utility classes for sizing and layering.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/hypnotism-pt5mAN1UhCYxlbJiQtA1wdYe\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
-        "id": "full-screen-spline-background-iframe"
-    },
-    {
-        "title": "Fullscreen Spline 3D Background Embed",
-        "description": "Embeds a Spline 3D scene in a full-screen, absolutely positioned container using Tailwind utilities. Adds interactive 3D animation as a background layer for hero sections or entire pages.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/quantum-ncqHj2HO6cx7eQ4WfDYRpqZb\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
-        "id": "fullscreen-spline-3d-background-embed-5"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Embed",
-        "description": "Absolute-positioned container that embeds a Spline 3D scene via iframe, creating an animated, full-viewport background layer for pages or hero sections. Utilizes Tailwind utility classes and supports responsive width and height.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/ventura2copy-QlljPuDvQWfMiAnUXFOrCrsY\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-embed-20"
-    },
-    {
-        "title": "Full-Screen Spline 3D Background Component",
-        "description": "Embeds a Spline iframe as a full-width, full-height animated 3D background with absolute positioning and Tailwind utility classes, ideal for hero sections or immersive page backdrops.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/ventura3animated-3f534c5ad078ad0d230fab6b3e2fda72/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-3d-background-component-2"
-    },
-    {
-        "title": "Full-Screen Spline Iframe Background",
-        "description": "Embeds a Spline 3D scene in a full-width, full-height iframe positioned behind page content via Tailwind utility classes; ideal for animated hero or section backgrounds.",
-        "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/hellodistortingintro-KK1UjacLdIpYX67NFsvuRTYC\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
-        "id": "full-screen-spline-iframe-background"
+  {
+    "title": "Full-Screen 3D Spline Background Embed",
+    "description": "Embeds a Spline 3D scene in an absolute, full-screen container using Tailwind utility classes. Provides an animated, interactive background effect suitable for hero sections or immersive pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/glowingplanetparticles-nhVHji30IRoa5HBGe8yeDiTs\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-3d-spline-background-embed"
+  },
+  {
+    "title": "Full-Page Spline 3D Background Embed",
+    "description": "Absolute-positioned container hosting a Spline iframe that fills the viewport, providing an animated 3D background for pages or hero sections. Uses Tailwind utility classes and suits immersive, interactive UI designs.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full z-0\"><iframe\n    src=\"https://my.spline.design/glowingplanetparticles-HmCVKutonlFn3Oqqe6DI9nWi/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-page-spline-3d-background-embed"
+  },
+  {
+    "title": "Full-Screen Spline Background Animation",
+    "description": "Embeds a responsive Spline iframe with space-particle animation, absolutely positioned to cover the entire viewport for decorative, dynamic backgrounds on landing pages or hero sections. Utilizes Tailwind utility classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/glasswave-6HLEnvJfCRsq1aKT2xqlgme7\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-animation"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute container with Tailwind classes that embeds a responsive, full-width and full-height Spline iframe behind page content. Provides an interactive 3D background ideal for hero sections, landing pages, or immersive UI scenes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/aidatamodelinteraction-mdTL3FktFVHgDvFr5TKtnYDV\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed"
+  },
+  {
+    "title": "Fullscreen Spline 3D Background Embed",
+    "description": "Embeds a Spline 3D scene in an absolute, full-screen container using Tailwind utility classes, ideal for dynamic hero backgrounds or immersive page sections.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/dunes-3fd4468737972c9a084de27efa2263c4\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "fullscreen-spline-3d-background-embed"
+  },
+  {
+    "title": "Full-Viewport Spline 3D Background Container",
+    "description": "Absolute-positioned container embedding a Spline iframe as a full-viewport animated 3D background, ideal for hero sections or page backdrops. Styled with Tailwind utility classes for easy layering and responsive fit.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/herolightcopy-HWuYMA6IdNGk0VGuyvrItNGB\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-viewport-spline-3d-background-container"
+  },
+  {
+    "title": "Full-Page Spline 3D Background Embed",
+    "description": "Absolute-positioned container that fills the viewport and embeds an interactive Spline 3D scene via iframe, ideal for animated backgrounds on hero sections or landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/liquidring-PGc8zQXZyDUpVFvWNgohNZnv\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
+    "id": "full-page-spline-3d-background-embed-2"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds a responsive, full-viewport Spline 3D scene via iframe, positioned absolutely behind page content—ideal for animated hero sections or immersive backgrounds in Tailwind-styled sites.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/crystalball-de222de54d6fc4752fa850b54fb654de/\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-2"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds a Spline 3D scene in an absolute, full-viewport container with negative z-index, creating an animated background layer for hero sections or landing pages. Styled with utility classes similar to Tailwind.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/radialglass-20RYcJn9wbsEb5QEYkazHjpb\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-3"
+  },
+  {
+    "title": "Spline 3D Background Embed",
+    "description": "A fullscreen 3D background iframe embedding Spline's glowing planet particles animation. Provides immersive space-themed visual backdrop for applications.",
+    "code": "<div class=\"spline-container fixed top-0 w-full h-screen -z-10\">\n  <iframe src=\"https://my.spline.design/glowingplanetparticles-oNju9tQxB1nyaHSc0bBhpEAE\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\" class=\"w-full h-full\"></iframe>\n</div>",
+    "id": "spline-3d-background-embed"
+  },
+  {
+    "title": "Full-Screen Spline Background Embed",
+    "description": "Absolute-positioned container that embeds a Spline iframe as a full-screen animated background behind content. Utilizes Tailwind CSS utilities and suits hero headers or immersive pages needing a lightweight 3D backdrop.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/animatedbackgroundgradientforweb-jvJDeBWjMvShkjPKxPRUswLq\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-embed"
+  },
+  {
+    "title": "Full-Screen 3D Spline Background Embed",
+    "description": "Embeds a full-viewport Spline scene via iframe, positioned behind content with Tailwind utilities; great for interactive hero sections, landing pages, or immersive backgrounds.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/nexbotrobotcharacterconcept-kLwr8f6hgKgaa5gmU6oB00Si\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-3d-spline-background-embed-2"
+  },
+  {
+    "title": "Fullscreen 3D Gradient Background (Spline Embed)",
+    "description": "Absolute-positioned container embedding a Spline iframe to render an interactive, full-screen 3D gradient backdrop. Uses Tailwind utility classes, sits behind content with negative z-index. Ideal for hero headers or immersive landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/3dgradient-AcpgG6LxFkpnJSoowRHPfcbO\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
+    "id": "fullscreen-3d-gradient-background-(spline-embed)"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute, full-width/height container embedding a Spline iframe as a low-z-index background. Adds interactive 3D visuals behind page content; styled with Tailwind utility classes for easy integration into React or HTML layouts.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/aidatamodelinteraction-jipMLzxI5liMrspqcm4GRWTh\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-4"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds a responsive, full-viewport Spline iframe as an absolute-positioned background element using Tailwind classes; ideal for animated 3D visuals behind hero sections or landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/flowingribbon-TlkEaNrvCCNZuJBNJN3LXpRF\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
+    "id": "full-screen-spline-3d-background-embed-5"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Component",
+    "description": "Embeds a Spline iframe as a full-viewport 3D animated background positioned behind all content with Tailwind utility classes; useful for hero sections, landing pages, or immersive layouts.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/untitled-f680ea749fc30deeb5eff5a8b15b2f63\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-component"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute, full-viewport container with Tailwind classes embedding a Spline iframe to render an animated 3D background. Suited for immersive hero sections, landing pages, or dynamic wallpapers.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone14wallpaper9copy-d98969f84b43360bb0c164413b743e10\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-6"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute-positioned container that fills the viewport and embeds a Spline iframe, creating an animated 3D background for pages or hero sections. Styled with Tailwind utility classes and ideal for immersive, decorative backdrops.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/3dglassherobg-xhxFCKvVSQv5b7qPD9xIZ5yC\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-7"
+  },
+  {
+    "title": "Full-Screen Spline Background Animation",
+    "description": "Embeds a Spline 3D particle animation in an absolute, full-width/height iframe with negative z-index, creating an animated background layer ideal for hero sections or landing pages styled with Tailwind classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/waveform-gm8Mc7BoEALZZ8ggTHi5kSGc\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-animation-2"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute-positioned container that embeds a Spline 3D scene via iframe, spans full viewport, sits behind content using Tailwind utilities. Ideal for interactive or animated backgrounds on landing pages and hero sections.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/twistcopy-CPActtgUfoQoOToZfH4Pt18Q\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-8"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds a Spline scene in a full-viewport iframe positioned behind all content with Tailwind utilities, enabling interactive 3D backgrounds for hero sections or landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/claritystream-a72K0KUwFoZV82QBzvu52Kai\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-9"
+  },
+  {
+    "title": "Full-Screen Spline Background Animation",
+    "description": "Absolute-positioned container that embeds a full-viewport Spline 3D animation via iframe. Tailwind utility classes place it behind content for dynamic, particle-style backgrounds in hero sections, landing pages, or immersive layouts.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/particlesmoment-kW3xyVny6weIhXJ3vbs2M2bB\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-animation-3"
+  },
+  {
+    "title": "Full-Screen Spline Animation Background",
+    "description": "Embeds a Spline iframe as an absolute, full-viewport background using Tailwind classes; ideal for animated hero sections, landing pages, or immersive UI effects.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/retrofuturisticcircuitloop-JngSBMetOQh9Jn4XS5OxTiIc/\" frameborder=\"0\"\n    width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-animation-background"
+  },
+  {
+    "title": "Animated WebGL Plasma Grid Background Canvas",
+    "description": "Full-screen HTML canvas rendering a purple/blue plasma grid via custom WebGL shaders. Auto-resizes and animates continuously, ideal for hero sections, landing pages, or interactive visual backdrops.",
+    "code": "<canvas id=\"canvas\" class=\"absolute w-full h-full top-0 left-0 -z-10\">\n  <script>\n    // Initialize WebGL\n    const canvas = document.getElementById('canvas');\n    const gl = canvas.getContext('webgl');\n    \n    if (!gl) {\n        alert('WebGL not supported in your browser');\n    }\n    \n    // Vertex shader program\n    const vsSource = `\n        attribute vec4 aVertexPosition;\n        void main() {\n            gl_Position = aVertexPosition;\n        }\n    `;\n    \n    // Fragment shader program (from your provided shader code)\n    const fsSource = `\n        precision highp float;\n        uniform vec2 iResolution;\n        uniform float iTime;\n        \n        const float overallSpeed = 0.2;\n        const float gridSmoothWidth = 0.015;\n        const float axisWidth = 0.05;\n        const float majorLineWidth = 0.025;\n        const float minorLineWidth = 0.0125;\n        const float majorLineFrequency = 5.0;\n        const float minorLineFrequency = 1.0;\n        const vec4 gridColor = vec4(0.5);\n        const float scale = 5.0;\n        // Modified color to purple/blue\n        const vec4 lineColor = vec4(0.4, 0.2, 0.8, 1.0);\n        // Lines are thinner now\n        const float minLineWidth = 0.01;\n        const float maxLineWidth = 0.2;\n        const float lineSpeed = 1.0 * overallSpeed;\n        const float lineAmplitude = 1.0;\n        const float lineFrequency = 0.2;\n        const float warpSpeed = 0.2 * overallSpeed;\n        const float warpFrequency = 0.5;\n        const float warpAmplitude = 1.0;\n        const float offsetFrequency = 0.5;\n        const float offsetSpeed = 1.33 * overallSpeed;\n        const float minOffsetSpread = 0.6;\n        const float maxOffsetSpread = 2.0;\n        const int linesPerGroup = 16;\n        \n        #define drawCircle(pos, radius, coord) smoothstep(radius + gridSmoothWidth, radius, length(coord - (pos)))\n        #define drawSmoothLine(pos, halfWidth, t) smoothstep(halfWidth, 0.0, abs(pos - (t)))\n        #define drawCrispLine(pos, halfWidth, t) smoothstep(halfWidth + gridSmoothWidth, halfWidth, abs(pos - (t)))\n        #define drawPeriodicLine(freq, width, t) drawCrispLine(freq / 2.0, width, abs(mod(t, freq) - (freq) / 2.0))\n        \n        float drawGridLines(float axis) {\n            return drawCrispLine(0.0, axisWidth, axis)\n                  + drawPeriodicLine(majorLineFrequency, majorLineWidth, axis)\n                  + drawPeriodicLine(minorLineFrequency, minorLineWidth, axis);\n        }\n        \n        float drawGrid(vec2 space) {\n            return min(1.0, drawGridLines(space.x) + drawGridLines(space.y));\n        }\n        \n        float random(float t) {\n            return (cos(t) + cos(t * 1.3 + 1.3) + cos(t * 1.4 + 1.4)) / 3.0;   \n        }\n        \n        float getPlasmaY(float x, float horizontalFade, float offset) {\n            return random(x * lineFrequency + iTime * lineSpeed) * horizontalFade * lineAmplitude + offset;\n        }\n        \n        void main() {\n            vec2 fragCoord = gl_FragCoord.xy;\n            vec4 fragColor;\n            \n            vec2 uv = fragCoord.xy / iResolution.xy;\n            vec2 space = (fragCoord - iResolution.xy / 2.0) / iResolution.x * 2.0 * scale;\n            \n            float horizontalFade = 1.0 - (cos(uv.x * 6.28) * 0.5 + 0.5);\n            float verticalFade = 1.0 - (cos(uv.y * 6.28) * 0.5 + 0.5);\n        \n            // Wind/turbulence effect\n            space.y += random(space.x * warpFrequency + iTime * warpSpeed) * warpAmplitude * (0.5 + horizontalFade);\n            space.x += random(space.y * warpFrequency + iTime * warpSpeed + 2.0) * warpAmplitude * horizontalFade;\n            \n            vec4 lines = vec4(0.0);\n            // Updated background colors to blue/purple gradient\n            vec4 bgColor1 = vec4(0.1, 0.1, 0.3, 1.0);\n            vec4 bgColor2 = vec4(0.3, 0.1, 0.5, 1.0);\n            \n            for(int l = 0; l < linesPerGroup; l++) {\n                float normalizedLineIndex = float(l) / float(linesPerGroup);\n                float offsetTime = iTime * offsetSpeed;\n                float offsetPosition = float(l) + space.x * offsetFrequency;\n                float rand = random(offsetPosition + offsetTime) * 0.5 + 0.5;\n                float halfWidth = mix(minLineWidth, maxLineWidth, rand * horizontalFade) / 2.0;\n                float offset = random(offsetPosition + offsetTime * (1.0 + normalizedLineIndex)) * mix(minOffsetSpread, maxOffsetSpread, horizontalFade);\n                float linePosition = getPlasmaY(space.x, horizontalFade, offset);\n                float line = drawSmoothLine(linePosition, halfWidth, space.y) / 2.0 + drawCrispLine(linePosition, halfWidth * 0.15, space.y);\n                \n                float circleX = mod(float(l) + iTime * lineSpeed, 25.0) - 12.0;\n                vec2 circlePosition = vec2(circleX, getPlasmaY(circleX, horizontalFade, offset));\n                float circle = drawCircle(circlePosition, 0.01, space) * 4.0;\n                \n                line = line + circle;\n                lines += line * lineColor * rand;\n            }\n            \n            fragColor = mix(bgColor1, bgColor2, uv.x);\n            fragColor *= verticalFade;\n            fragColor.a = 1.0;\n            // Debug grid:\n            // fragColor = mix(fragColor, gridColor, drawGrid(space));\n            fragColor += lines;\n            \n            gl_FragColor = fragColor;\n        }\n    `;\n    \n    // Initialize shaders\n    function initShaderProgram(gl, vsSource, fsSource) {\n        const vertexShader = loadShader(gl, gl.VERTEX_SHADER, vsSource);\n        const fragmentShader = loadShader(gl, gl.FRAGMENT_SHADER, fsSource);\n        \n        const shaderProgram = gl.createProgram();\n        gl.attachShader(shaderProgram, vertexShader);\n        gl.attachShader(shaderProgram, fragmentShader);\n        gl.linkProgram(shaderProgram);\n        \n        if (!gl.getProgramParameter(shaderProgram, gl.LINK_STATUS)) {\n            console.error('Unable to initialize the shader program: ' + gl.getProgramInfoLog(shaderProgram));\n            return null;\n        }\n        \n        return shaderProgram;\n    }\n    \n    function loadShader(gl, type, source) {\n        const shader = gl.createShader(type);\n        gl.shaderSource(shader, source);\n        gl.compileShader(shader);\n        \n        if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {\n            console.error('An error occurred compiling the shaders: ' + gl.getShaderInfoLog(shader));\n            gl.deleteShader(shader);\n            return null;\n        }\n        \n        return shader;\n    }\n    \n    // Create shader program\n    const shaderProgram = initShaderProgram(gl, vsSource, fsSource);\n    \n    // Setup geometry (a quad that fills the screen)\n    const positionBuffer = gl.createBuffer();\n    gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);\n    const positions = [\n        -1.0, -1.0,\n          1.0, -1.0,\n        -1.0,  1.0,\n          1.0,  1.0,\n    ];\n    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(positions), gl.STATIC_DRAW);\n    \n    // Setup attributes and uniforms\n    const programInfo = {\n        program: shaderProgram,\n        attribLocations: {\n            vertexPosition: gl.getAttribLocation(shaderProgram, 'aVertexPosition'),\n        },\n        uniformLocations: {\n            resolution: gl.getUniformLocation(shaderProgram, 'iResolution'),\n            time: gl.getUniformLocation(shaderProgram, 'iTime'),\n        },\n    };\n    \n    // Resize canvas to match window size\n    function resizeCanvas() {\n        canvas.width = window.innerWidth;\n        canvas.height = window.innerHeight;\n        gl.viewport(0, 0, canvas.width, canvas.height);\n    }\n    \n    window.addEventListener('resize', resizeCanvas);\n    resizeCanvas();\n    \n    // Animation loop\n    let startTime = Date.now();\n    function render() {\n        const currentTime = (Date.now() - startTime) / 1000; // time in seconds\n        \n        // Clear the canvas\n        gl.clearColor(0.0, 0.0, 0.0, 1.0);\n        gl.clear(gl.COLOR_BUFFER_BIT);\n        \n        // Use the shader program\n        gl.useProgram(programInfo.program);\n        \n        // Set uniforms\n        gl.uniform2f(programInfo.uniformLocations.resolution, canvas.width, canvas.height);\n        gl.uniform1f(programInfo.uniformLocations.time, currentTime);\n        \n        // Set vertex attributes\n        gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);\n        gl.vertexAttribPointer(\n            programInfo.attribLocations.vertexPosition,\n            2,         // 2 components per vertex\n            gl.FLOAT,  // the data is 32bit floats\n            false,     // don't normalize\n            0,         // stride\n            0          // offset\n        );\n        gl.enableVertexAttribArray(programInfo.attribLocations.vertexPosition);\n        \n        // Draw the quad\n        gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);\n        \n        requestAnimationFrame(render);\n    }\n    \n    requestAnimationFrame(render);\n  </script>\n</canvas>",
+    "id": "animated-webgl-plasma-grid-background-canvas"
+  },
+  {
+    "title": "Full-screen Spline 3D Background Embed",
+    "description": "Embeds a Spline-designed 3D animation in a full-screen, behind-content layer using Tailwind utility classes—ideal for immersive animated page backgrounds.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/thresholddarkambientui-v0gkZCfi6zXm69kE0wccy70f\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-10"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds a responsive Spline iframe as a full-viewport, behind-content animated background using Tailwind utility classes. Ideal for dynamic hero sections or page backgrounds needing 3D motion.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/nexbotrobotcharacterconcept-FDt7cww2KDcL0RxmRfz1cZG7/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-11"
+  },
+  {
+    "title": "Fullscreen Spline 3D Background Embed",
+    "description": "Absolute-positioned container embedding a Spline iframe to render a fullscreen, interactive 3D glass-morph scene behind page content. Ideal for dynamic hero sections or landing pages using Tailwind utility classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/glassmorphlandingpage-nyOS3MRrg0GCft1x8mCtqPwk\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "fullscreen-spline-3d-background-embed-2"
+  },
+  {
+    "title": "Full-Screen 3D Spline Background Embed",
+    "description": "Embeds a Spline 3D scene via iframe and positions it as a full-screen, behind-content background using Tailwind utility classes. Ideal for hero sections or immersive pages needing animated visual depth.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/holographicearthwithdynamiclines-Txss0UBWNbhy4HVGL2xZX8mr\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
+    "id": "full-screen-3d-spline-background-embed-3"
+  },
+  {
+    "title": "Full-Screen Spline Background Embed",
+    "description": "Renders a full-viewport, absolutely positioned container that embeds an interactive Spline 3D scene via iframe, ideal for animated backgrounds in hero sections or landing pages. Utilizes Tailwind CSS utility classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full z-0\"><iframe\n    src=\"https://my.spline.design/glassmorphlandingpage-xQfGBqtFYIJ5g5Oisgpo1QF8/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-embed-2"
+  },
+  {
+    "title": "Full-screen Spline 3D Background Embed",
+    "description": "Embeds a Spline-hosted 3D scene via iframe as a fixed, full-screen background positioned behind other content using Tailwind utility classes. Ideal for adding interactive or animated 3D visuals to landing pages or hero sections.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/unchained-d3hHCgdWho7a8ATGzKtB11TU\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-12"
+  },
+  {
+    "title": "Full-Page Spline 3D Background",
+    "description": "Embeds a Spline 3D scene as a full-screen, animated background via iframe. Positioned absolute with Tailwind utilities to sit behind content; ideal for hero sections or immersive landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/worldplanet-inmHh7fVCul1jUFrNRYlotVU\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-page-spline-3d-background"
+  },
+  {
+    "title": "Full-Screen Animated Spline Gradient Background",
+    "description": "Absolutely positioned div embedding a Spline iframe to render a responsive, full-width and full-height liquid gradient animation. Ideal as an eye-catching animated background for hero sections, landing pages, or immersive web apps using Tailwind utility classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/liquidgradientabstractbackground-gEjylYLumN1b1CUcuIb8DyUA\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
+    "id": "full-screen-animated-spline-gradient-background"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds a Spline 3D scene in an absolute, full-screen container using Tailwind classes. Positioned behind content with negative z-index, it delivers interactive, responsive backgrounds for hero sections or immersive pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/orbit-XDLATgFZPQX6SO6dgJGqPwHD/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-13"
+  },
+  {
+    "title": "Full-Screen Spline Animated Background",
+    "description": "Embeds a Spline scene via iframe to create a full-viewport animated gradient backdrop, positioned behind all content with Tailwind utility classes. Ideal for modern hero sections or immersive landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/animatedgradientbackgroundforweb-uWFYyIpYVM3xYkd88RS2ewR8\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
+    "id": "full-screen-spline-animated-background"
+  },
+  {
+    "title": "Full-screen Spline Animation Background",
+    "description": "Absolute-positioned container that embeds a Spline 3D particles animation via iframe, creating a full-page animated background layer behind site content. Ideal for hero sections or immersive landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/particlesanimationcopy-BiEpR7tIQKZUMiStdu4jmTNF\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-animation-background-2"
+  },
+  {
+    "title": "Fullscreen Spline 3D Background Embed",
+    "description": "Absolute positioned div with Tailwind classes embeds a Spline iframe as a full-screen, behind-content animated 3D background for hero sections or pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/binarymaterialcopy-uzQoq9YUCPK8Sqz8n9uP5qMO\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "fullscreen-spline-3d-background-embed-3"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Animation",
+    "description": "Embeds a responsive, full-viewport Spline iframe to render a 3D particle portal animation behind all content using Tailwind utility classes; ideal for immersive hero sections, landing pages, or dynamic page backgrounds.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/fireparticleloaderanimationdrstrangeporta-2XtNK3LbyCGmClvus9SdgnYJ/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-animation"
+  },
+  {
+    "title": "Full-Screen Spline Background Animation",
+    "description": "Embeds a Spline 3D scene as a full-viewport animated background via iframe, positioned absolutely with Tailwind classes for use in hero sections or immersive landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/retrofuturismbganimation-Lb3VtL1bNaYUnirKNzn0FvaW\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-animation-4"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Container",
+    "description": "Embeds a Spline 3D scene in an absolute, full-viewport iframe positioned behind all content using Tailwind classes; ideal for animated page backgrounds or hero sections.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-0\"><iframe\n    src=\"https://my.spline.design/boxeshover-moTMLK3GQFBGQDftEiPF6OlW\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-container"
+  },
+  {
+    "title": "Full-Screen 3D Spline Background Container",
+    "description": "Absolute-positioned container that fills the viewport and embeds a Spline 3D scene via iframe, ideal for animated hero backgrounds or immersive section effects in Tailwind-styled pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/celestialflowabstractdigitalform-ObUlVgj70g2y4bbx5vBKSfxN/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-3d-spline-background-container"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute-positioned container that embeds a Spline scene via iframe, creating an animated, full-screen background behind page content. Ideal for immersive hero sections or landing pages using Tailwind utility classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone14wallpaper4copy-79eead3c8221db4e6fd870a3d5061aa0\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-14"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute-positioned container embedding a Spline iframe for a full-width, full-height interactive 3D background. Tailwind utility classes handle sizing and layering, ideal for hero sections or immersive landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/reactiveorb-s0GzgSco0uSVSXvwMHuJvPQs\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-15"
+  },
+  {
+    "title": "Full-Screen Spline Background Animation",
+    "description": "Embeds a Spline 3D particle animation in an iframe positioned absolutely to cover the entire viewport using Tailwind classes, delivering an animated backdrop for hero sections or full-page layouts.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/spaceparticlesanimation-UGnU6SB7nUK6sFI6N5WzasEx\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-animation-5"
+  },
+  {
+    "title": "Full-Screen Animated Spline Background",
+    "description": "Absolutely positioned container embedding a Spline iframe to render a full-width, full-height animated background pattern; ideal for hero sections or immersive pages using Tailwind utility classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/animatedshapeblend-1gCFHvLukjcmK6imbIAFLY2d/\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-animated-spline-background"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background",
+    "description": "Embeds a Spline-hosted 3D scene in a full-width, full-height iframe positioned absolutely behind content with Tailwind classes; ideal for animated, interactive backgrounds on hero or landing pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/advancedlightandshadowblurmaterial-AkTXlsUYXzV54u5a1pc75N0w/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute-positioned container embedding a Spline iframe as a full-width, full-height interactive 3D background, ideal for hero sections or immersive page headers. Tailwind utility classes handle positioning and layering behind content.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/radialpattern-hkyfBWXPTPO4g8csZKdL866B/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-16"
+  },
+  {
+    "title": "Full-Screen Spline Background Animation",
+    "description": "Embeds a full-viewport Spline 3D animation via iframe, positioned absolute with negative z-index to act as a dynamic background. Utilizes Tailwind classes; ideal for landing pages, hero sections, or any layout needing immersive visual flair.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/bganimation-xIKR0ZTWWoifZLAKROH7y9YL\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-background-animation-6"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Container",
+    "description": "Full-viewport container that embeds an interactive Spline 3D scene via iframe, positioned absolutely with Tailwind classes and negative z-index to serve as an animated page background or hero visual.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/chips-Lpmy2Q4HrMAxwGztMvtaZdY0\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-container-2"
+  },
+  {
+    "title": "Fullscreen Spline 3D Background Embed",
+    "description": "Absolute-positioned container using Tailwind classes embeds a responsive, full-viewport Spline 3D scene via iframe—ideal for animated hero backgrounds or immersive section effects.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone15procopy-pmwnMexXbAOzhjJgYVtuY6kv\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "fullscreen-spline-3d-background-embed-4"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds an interactive Spline 3D scene in a full-viewport iframe, absolutely positioned behind all content using Tailwind utility classes. Ideal for dynamic hero sections or immersive landing page backgrounds.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/iphone14wallpaper9copy-6e94be4fb0a16b265b124a4c7812adcf\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-17"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Container",
+    "description": "Absolute-positioned container that fills the viewport and embeds an interactive Spline 3D scene via iframe, creating an animated galaxy background for hero sections or entire pages. Styled with Tailwind utility classes for quick integration.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/galaxy-YxBchtLLMNxuqLPeF7XcyWOm\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-container-3"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolutely positioned container embeds a Spline iframe to render a full-viewport 3D animated background behind page content. Utilizes Tailwind utility classes; perfect for hero sections, landing pages, or immersive UI backgrounds.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/distortedspiralcopy-E3eftImqwWVDCs3VOeOacDLp\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-18"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Embeds an interactive Spline 3D scene as a full-viewport, behind-content background using Tailwind utility classes; ideal for adding animated, immersive visuals to landing pages or hero sections.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/ventura6copy-gWmPOZ1qp1cOuTsdDDOwPQ17\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-19"
+  },
+  {
+    "title": "Full-Page Spline 3D Background Embed",
+    "description": "Embeds a Spline 3D scene in a full-width, full-height iframe positioned absolutely behind page content using Tailwind utility classes. Ideal for animated hero sections or immersive landing page backgrounds.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full z-0\"><iframe\n    src=\"https://my.spline.design/font-PoWAh7XBlgAoAcENsaYMuA9u/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-page-spline-3d-background-embed-3"
+  },
+  {
+    "title": "Full-Screen 3D Spline Background Embed",
+    "description": "Absolute-positioned container embedding a Spline iframe as a full-screen animated 3D background layer. Utilizes Tailwind CSS utilities; ideal for hero sections, landing pages, or immersive UI experiences.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/frosteddimensions-4Slc8q0uvEA7gyyqsnA5RasX/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-3d-spline-background-embed-4"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background",
+    "description": "Provides a full-viewport, absolutely positioned iframe that embeds a Spline 3D scene as an animated background, sitting behind all content. Ideal for hero sections or immersive pages using Tailwind utility classes.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/crystalball-2xfDjbH6YAl4dFHRGQCWobQt\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-2"
+  },
+  {
+    "title": "Full-Screen Spline Background Iframe",
+    "description": "Embeds a Spline 3D scene in a full-width, full-height absolutely positioned iframe behind page content, creating an animated background for hero sections, landing pages, or decorative layouts. Utilizes Tailwind utility classes for sizing and layering.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe src=\"https://my.spline.design/hypnotism-pt5mAN1UhCYxlbJiQtA1wdYe\" frameborder=\"0\" width=\"100%\" height=\"100%\" id=\"aura-spline\"></iframe></div>\n",
+    "id": "full-screen-spline-background-iframe"
+  },
+  {
+    "title": "Fullscreen Spline 3D Background Embed",
+    "description": "Embeds a Spline 3D scene in a full-screen, absolutely positioned container using Tailwind utilities. Adds interactive 3D animation as a background layer for hero sections or entire pages.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/quantum-ncqHj2HO6cx7eQ4WfDYRpqZb\" frameborder=\"0\" width=\"100%\" height=\"100%\"\n    id=\"aura-spline\"></iframe></div>",
+    "id": "fullscreen-spline-3d-background-embed-5"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Embed",
+    "description": "Absolute-positioned container that embeds a Spline 3D scene via iframe, creating an animated, full-viewport background layer for pages or hero sections. Utilizes Tailwind utility classes and supports responsive width and height.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/ventura2copy-QlljPuDvQWfMiAnUXFOrCrsY\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-embed-20"
+  },
+  {
+    "title": "Full-Screen Spline 3D Background Component",
+    "description": "Embeds a Spline iframe as a full-width, full-height animated 3D background with absolute positioning and Tailwind utility classes, ideal for hero sections or immersive page backdrops.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/ventura3animated-3f534c5ad078ad0d230fab6b3e2fda72/\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-3d-background-component-2"
+  },
+  {
+    "title": "Full-Screen Spline Iframe Background",
+    "description": "Embeds a Spline 3D scene in a full-width, full-height iframe positioned behind page content via Tailwind utility classes; ideal for animated hero or section backgrounds.",
+    "code": "<div class=\"spline-container absolute top-0 left-0 w-full h-full -z-10\"><iframe\n    src=\"https://my.spline.design/hellodistortingintro-KK1UjacLdIpYX67NFsvuRTYC\" frameborder=\"0\" width=\"100%\"\n    height=\"100%\" id=\"aura-spline\"></iframe></div>",
+    "id": "full-screen-spline-iframe-background"
+  },
+  {
+    "title": "cg-3d-garage",
+    "code": {
+      "index.html": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta\n      name=\"viewport\"\n      content=\"width=device-width, initial-scale=1.0, user-scalable=yes\"\n    />\n    <title>3D Garage | Codegrid</title>\n    <link rel=\"stylesheet\" href=\"styles.css\" />\n  </head>\n  <body>\n    <div class=\"garage\"></div>\n\n    <nav>\n      <div class=\"logo\">\n        <a href=\"#\">The Garage</a>\n      </div>\n      <div class=\"nav-items\">\n        <a href=\"#\">Services</a>\n        <a href=\"#\">About</a>\n        <a href=\"#\">Contact</a>\n      </div>\n    </nav>\n\n    <footer>\n      <p>\n        Redefining the future, where raw grit meets bold style in a\n        dystopian-inspired garage experience.\n      </p>\n      <p>Made by Codegrid</p>\n    </footer>\n\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/EffectComposer.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/RenderPass.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/ShaderPass.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/shaders/CopyShader.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/shaders/LuminosityHighPassShader.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/UnrealBloomPass.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js\"></script>\n    <script src=\"./script.js\"></script>\n  </body>\n</html>\n",
+      "script.js": "// Initialize the Scene\nconst scene = new THREE.Scene();\nscene.background = new THREE.Color(0x151620);\n\n// Set up the Camera\nconst camera = new THREE.PerspectiveCamera(\n  70,\n  window.innerWidth / window.innerHeight,\n  0.1,\n  1000\n);\ncamera.position.set(60, 10, 50);\ncamera.lookAt(0, 0, 0);\n\n// Configure the Renderer\nconst renderer = new THREE.WebGLRenderer({\n  antialias: true,\n  powerPreference: \"high-performance\",\n});\nrenderer.setSize(window.innerWidth, window.innerHeight);\nrenderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));\nrenderer.toneMapping = THREE.ACESFilmicToneMapping;\nrenderer.toneMappingExposure = 0.75;\ndocument.querySelector(\".garage\").appendChild(renderer.domElement);\n\n// Set up Lighting\nconst ambientLight = new THREE.AmbientLight(0xffffff, 0);\nscene.add(ambientLight);\n\nconst directionalLight = new THREE.DirectionalLight(0xcc8ee8, 1.5);\ndirectionalLight.position.set(5, 5, 5);\ndirectionalLight.castShadow = true;\ndirectionalLight.shadow.mapSize.width = 2048;\ndirectionalLight.shadow.mapSize.height = 2048;\nscene.add(directionalLight);\n\nconst pointLight = new THREE.PointLight(0xffd600, 3, 50);\npointLight.position.set(4.5, 25, 25);\npointLight.decay = 5;\nscene.add(pointLight);\n\nconst pointLight2 = new THREE.PointLight(0xea00ff, 1.25, 0);\npointLight2.position.set(-100, 65.5, 20);\npointLight2.decay = 2;\nscene.add(pointLight2);\n\nconst pointLight3 = new THREE.PointLight(0xff4c00, 2.5, 50);\npointLight3.position.set(10, -10, -25);\npointLight3.decay = 2;\nscene.add(pointLight3);\n\nconst pointLight4 = new THREE.PointLight(0xffd600, 3, 47);\npointLight4.position.set(52, -25, 25);\npointLight4.decay = 0.5;\nscene.add(pointLight4);\n\n// Set up Post-Processing\nconst composer = new THREE.EffectComposer(renderer);\nconst renderPass = new THREE.RenderPass(scene, camera);\ncomposer.addPass(renderPass);\n\n// Add Bloom Effect\nconst bloomPass = new THREE.UnrealBloomPass(\n  new THREE.Vector2(window.innerWidth, window.innerHeight),\n  0.6,\n  1,\n  0.1\n);\ncomposer.addPass(bloomPass);\n\n// Configure Controls\nconst controls = new THREE.OrbitControls(camera, renderer.domElement);\ncontrols.enableDamping = true;\ncontrols.dampingFactor = 0.05;\ncontrols.minDistance = 10;\ncontrols.maxDistance = 50;\ncontrols.maxPolarAngle = Math.PI / 2;\n\n// Create Material Helper Function\nconst createEmissiveMaterial = (color, intensity = 2) => {\n  return new THREE.MeshStandardMaterial({\n    color: color,\n    emissive: color,\n    emissiveIntensity: intensity,\n    toneMapped: false,\n  });\n};\n\n// Load and Set up the 3D Model\nconst loader = new THREE.GLTFLoader();\nloader.load(\"./assets/scene.gltf\", function (gltf) {\n  const model = gltf.scene;\n\n  const box = new THREE.Box3().setFromObject(model);\n  const center = box.getCenter(new THREE.Vector3());\n  model.position.sub(center);\n\n  scene.add(model);\n});\n\n// Handle Window Resizing\nfunction onWindowResize() {\n  camera.aspect = window.innerWidth / window.innerHeight;\n  camera.updateProjectionMatrix();\n  renderer.setSize(window.innerWidth, window.innerHeight);\n  composer.setSize(window.innerWidth, window.innerHeight);\n}\nwindow.addEventListener(\"resize\", onWindowResize, false);\n\n// Create Animation Loop\nfunction animate() {\n  requestAnimationFrame(animate);\n  controls.update();\n  composer.render();\n}\n\nanimate();\n",
+      "styles.css": "* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nhtml,\nbody {\n  width: 100%;\n  height: 100%;\n  font-family: \"ITC Franklin Gothic Std\";\n  background: #151620;\n}\n\na,\np {\n  text-decoration: none;\n  text-transform: uppercase;\n  font-size: 18px;\n  color: #fff;\n}\n\n.garage {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100vw;\n  height: 100vh;\n  overflow: hidden;\n}\n\nnav {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100vw;\n  padding: 2.5em;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  z-index: 2;\n}\n\n.nav-items {\n  display: flex;\n  gap: 2em;\n}\n\n.logo {\n  background-color: #ffe940;\n  padding: 0.5em 0.5em 0em 0.5em;\n  border-radius: 4px;\n}\n\n.logo a {\n  font-size: 24px;\n  font-weight: bolder;\n  color: #000;\n}\n\nfooter {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 100vw;\n  padding: 2.5em;\n  display: flex;\n  justify-content: space-between;\n  align-items: flex-end;\n}\n\nfooter p:nth-child(1) {\n  width: 360px;\n}\n"
     }
+  },
+  {
+    "title": "cg-scroll-controlled-3d-cubes",
+    "code": {
+      "index.html": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Scroll-Controlled 3D Cubes | @Codegrid</title>\n    <link rel=\"stylesheet\" href=\"styles.css\" />\n  </head>\n  <body>\n    <nav>\n      <a href=\"#\">\n        <p>Codegrid<br />Youtube Channel<br />Est. 2017</p>\n      </a>\n      <p>Forging ahead<br />with elite <br />web designs.<br /></p>\n    </nav>\n    <footer>\n      <div class=\"socials\">\n        <a href=\"#\">IG</a>\n        <a href=\"#\">TW</a>\n        <a href=\"#\">BE</a>\n        <a href=\"#\">IN</a>\n        <a href=\"#\">MAIL</a>\n      </div>\n      <div class=\"ctas\">\n        <button>Live site</button>\n        <button>Buy now</button>\n      </div>\n    </footer>\n\n    <div style=\"height: 75px\"></div>\n    <div class=\"item project-1\">\n      <div class=\"cube-container\">\n        <div class=\"cube\">\n          <div class=\"side front\"><p></p></div>\n          <div class=\"side back\"><p></p></div>\n          <div class=\"side top\"><p></p></div>\n          <div class=\"side bottom\"><p></p></div>\n        </div>\n        <div class=\"cube\" style=\"left: 50%;\">\n          <div class=\"side front\"><img src=\"./assets/img1.png\" alt=\"\" /></div>\n          <div class=\"side back\"><img src=\"./assets/img2.png\" alt=\"\" /></div>\n          <div class=\"side top\"><img src=\"./assets/img3.png\" alt=\"\" /></div>\n          <div class=\"side bottom\"><img src=\"./assets/img4.png\" alt=\"\" /></div>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"item project-2\">\n      <div class=\"cube-container\">\n        <div class=\"cube\">\n          <div class=\"side front\"><p></p></div>\n          <div class=\"side back\"><p></p></div>\n          <div class=\"side top\"><p></p></div>\n          <div class=\"side bottom\"><p></p></div>\n        </div>\n        <div class=\"cube\" style=\"left: 50%;\">\n          <div class=\"side front\"><img src=\"./assets/img5.png\" alt=\"\" /></div>\n          <div class=\"side back\"><img src=\"./assets/img6.png\" alt=\"\" /></div>\n          <div class=\"side top\"><img src=\"./assets/img7.png\" alt=\"\" /></div>\n          <div class=\"side bottom\"><img src=\"./assets/img8.png\" alt=\"\" /></div>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"item project-3\">\n      <div class=\"cube-container\">\n        <div class=\"cube\">\n          <div class=\"side front\"><p></p></div>\n          <div class=\"side back\"><p></p></div>\n          <div class=\"side top\"><p></p></div>\n          <div class=\"side bottom\"><p></p></div>\n        </div>\n        <div class=\"cube\" style=\"left: 50%;\">\n          <div class=\"side front\"><img src=\"./assets/img1.png\" alt=\"\" /></div>\n          <div class=\"side back\"><img src=\"./assets/img2.png\" alt=\"\" /></div>\n          <div class=\"side top\"><img src=\"./assets/img3.png\" alt=\"\" /></div>\n          <div class=\"side bottom\"><img src=\"./assets/img4.png\" alt=\"\" /></div>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"item project-4\">\n      <div class=\"cube-container\">\n        <div class=\"cube\">\n          <div class=\"side front\"><p></p></div>\n          <div class=\"side back\"><p></p></div>\n          <div class=\"side top\"><p></p></div>\n          <div class=\"side bottom\"><p></p></div>\n        </div>\n        <div class=\"cube\" style=\"left: 50%;\">\n          <div class=\"side front\"><img src=\"./assets/img5.png\" alt=\"\" /></div>\n          <div class=\"side back\"><img src=\"./assets/img6.png\" alt=\"\" /></div>\n          <div class=\"side top\"><img src=\"./assets/img7.png\" alt=\"\" /></div>\n          <div class=\"side bottom\"><img src=\"./assets/img8.png\" alt=\"\" /></div>\n        </div>\n      </div>\n    </div>\n\n    <div style=\"height: 100px;\"></div>\n    <script>\n      const cubeContainers = document.querySelectorAll('.cube-container');\n      const items = document.querySelectorAll('.item');\n      const projectNames = [\"clark\", \"bingo\", \"vertex\", \"linear\"];\n\n      function updateCubes(scrollY) {\n        const yRotation = (scrollY / 2) % 360;\n        const scrollOffset = scrollY * 0.25;\n\n        cubeContainers.forEach((container, containerIndex) => {\n          const cubes = container.querySelectorAll('.cube');\n\n          cubes.forEach((cube, cubeIndex) => {\n            let rotationDirection = cubeIndex % 2 === 0 ? 1 : -1;\n            cube.style.transform = `translateZ(100px) rotateX(${yRotation * rotationDirection}deg)`;\n          });\n\n          // Optimized text position update\n          const frontBackTextPosition = 50 + scrollOffset;\n          const topBottomTextPosition = 50 - scrollOffset;\n\n          container.querySelectorAll('.front p, .back p').forEach(p => {\n            p.style.left = `${frontBackTextPosition}%`;\n          });\n\n          container.querySelectorAll('.top p, .bottom p').forEach(p => {\n            p.style.left = `${topBottomTextPosition}%`;\n          });\n        });\n      }\n\n      function populateText() {\n        items.forEach((item, itemIndex) => {\n          const projectName = projectNames[itemIndex % projectNames.length];\n          const sides = item.querySelectorAll('.side p');\n          const textContent = Array(50).fill(projectName).join(\"&nbsp;&nbsp;&nbsp;&nbsp;\");\n\n          sides.forEach(side => {\n            side.innerHTML = textContent;\n          });\n        });\n      }\n\n      window.onload = function() {\n        populateText();\n        updateCubes(window.scrollY);\n      };\n\n      let ticking = false;\n      document.addEventListener('scroll', function(e) {\n        if (!ticking) {\n          window.requestAnimationFrame(function() {\n            updateCubes(window.scrollY);\n            ticking = false;\n          });\n          ticking = true;\n        }\n      });\n    </script>\n  </body>\n</html>\n",
+      "styles.css": "* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nhtml, body {\n  width: 100%;\n  height: 100%;\n  font-family: \"Neue Montreal\", -apple-system;\n}\n\nimg {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n}\n\na {\n  text-decoration: none;\n  color: #000;\n}\n\nnav, footer {\n  position: fixed;\n  width: 100%;\n  display: flex;\n  justify-content: space-between;\n  padding: 2em;\n}\n\nnav p {\n  color: #8e8e8e;\n  text-transform: uppercase;\n  font-weight: 500;\n  line-height: 100%;\n}\n\nnav a p {\n  color: #000;\n}\n\nfooter {\n  align-items: center;\n  bottom: 0;\n}\n\n.socials {\n  display: flex;\n  gap: 2em;\n  font-weight: 500;\n}\n\n.ctas {\n  display: flex;\n  gap: 1em;\n}\n\nbutton {\n  padding: 1.5em 3em;\n  background: none;\n  text-transform: uppercase;\n  outline: none;\n  border: 1px solid rgba(0, 0, 0, 0.25);\n  color: rgba(0, 0, 0, 0.5);\n  border-radius: 50px;\n  font-weight: bolder;\n  margin: 0;\n}\n\n.cube-container {\n  height: 200px;\n  width: 400px;\n  margin: 0 auto;\n  position: relative;\n  perspective: 500px;\n  perspective-origin: 50% 50%;\n}\n\n.item {\n  width: 100%;\n  height: 800px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.cube {\n  width: 200px;\n  height: 100%;\n  position: absolute;\n  transform-style: preserve-3d;\n}\n\n.cube .side {\n  width: 200px;\n  height: 200px;\n  position: absolute;\n  overflow: hidden;\n}\n\n.cube .front {\n  transform: translateZ(100px);\n}\n\n.cube .back {\n  transform: rotateX(180deg) translateZ(100px);\n}\n\n.cube .top {\n  transform: rotateX(90deg) translateZ(100px);\n}\n\n.cube .bottom {\n  transform: rotateX(-90deg) translateZ(100px);\n}\n\n.front, .back {\n  background: #EDEDED;\n}\n\n.top, .bottom {\n  background: #cecece;\n}\n\n.cube p {\n  width: max-content;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  text-transform: uppercase;\n  font-size: 40px;\n  font-weight: 600;\n  letter-spacing: -0.02em;\n  line-height: 100%;\n}\n"
+    }
+  }
 ]
