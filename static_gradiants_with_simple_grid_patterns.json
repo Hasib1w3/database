@@ -1,0 +1,1217 @@
+[
+  {
+    "title": "Top Gradient Radial",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #fff 40%, #6366f1 100%)\",\n    }}\n  />\n     {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Bottom Gradient Radial",
+    "description": "Radial gradient from white to purple starting from bottom",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background from Bottom */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 90%, #fff 40%, #6366f1 100%)\",\n    }}\n  />\n     {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Top Violet Radial",
+    "description": "Rich violet from top - luxury feel for premium brands",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background from Top */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #fff 40%, #7c3aed 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Bottom Violet Radial",
+    "description": "Rich violet from bottom - luxury feel for premium brands",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background from Bottom */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 90%, #fff 40%, #7c3aed 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Top Slate Radial",
+    "description": "Sophisticated slate from top - clean and professional",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background from Top */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #fff 40%, #475569 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Bottom Slate Radial",
+    "description": "Sophisticated slate from bottom - clean and professional",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background from Bottom */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 90%, #fff 40%, #475569 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Top Teal Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Teal Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Bottom Teal Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Teal Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Top Pink Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Pink Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Bottom Pink Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Pink Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Top Amber Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Amber Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Bottom Amber Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Amber Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Top Emerald Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Emerald Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Bottom Emerald Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Emerald Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Horizon Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n        {/* Dark Horizon Glow */}\n        <div\n          className=\"absolute inset-0 z-0\"\n          style={{\n            background: \"radial-gradient(125% 125% at 50% 90%, #000000 40%, #0d1a36 100%)\",\n          }}\n        />\n        {/* Your Content/Components */}\n  \n      </div>"
+  },
+  {
+    "title": "Crimson Depth",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Crimson Depth */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 100%, #000000 40%, #2b0707 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Emerald Void",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Emerald Void */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 90%, #000000 40%, #072607 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Violet Abyss",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Violet Abyss */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 90%, #000000 40%, #2b092b 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Azure Depths",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Azure Depths */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 100%, #000000 40%, #010133 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Orchid  Depths",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n        {/* Azure Depths */}\n        <div\n          className=\"absolute inset-0 z-0\"\n          style={{\n            background: \"radial-gradient(125% 125% at 50% 100%, #000000 40%, #350136 100%)\",\n          }}\n        />\n        {/* Your Content/Components */}\n\n      </div>"
+  },
+  {
+    "title": "Dark Horizon Glow Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dark Horizon Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #000000 40%, #0d1a36 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Crimson Depth Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Crimson Depth */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #000000 40%, #2b0707 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Emerald Void Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Emerald Void */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #000000 40%, #072607 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Violet Abyss Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Violet Abyss */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #000000 40%, #2b092b 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Azure Depths Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Azure Depths */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #000000 40%, #010133 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Orchid Depths Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Orchid Depths */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #000000 40%, #350136 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Purple Gradient Grid Right",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Purple Gradient Grid Right Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Purple Gradient Grid Left",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Purple Gradient Grid Left Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dual Gradient Overlay",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Dual Gradient Overlay Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dual Gradient Overlay Swapped",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Dual Gradient Overlay Swapped Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dual Gradient Overlay (Top)",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Dual Gradient Overlay (Top) Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dual Gradient Overlay (Bottom)",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Dual Gradient Overlay (Bottom) Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Purple Corner Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n {/* Purple Corner Grid Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Grid Dual Purple Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n {/* Grid + Left & Right Gradient Glow */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Grid Quad Purple Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n {/* Grid + Glow on All Sides */}\n <div\n   className=\"absolute inset-0 z-0 pointer-events-none\"\n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Top Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f8fafc] relative\">\n  {/* Top Fade Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Bottom Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f8fafc] relative\">\n  {/* Bottom Fade Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Fade Grid Left",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f9fafb] relative\">\n  {/* Diagonal Fade Grid Background - Top Left */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Fade Grid Right",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f9fafb] relative\">\n  {/* Diagonal Fade Grid Background - Top Right */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Fade Bottom Grid Left",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f9fafb] relative\">\n  {/* Diagonal Fade Bottom Grid Left Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Fade Bottom Grid Right",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f9fafb] relative\">\n  {/* Diagonal Fade Bottom Grid Right Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Fade Center Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f9fafb] relative\">\n  {/* Diagonal Fade Center Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Grid Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Grid Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Grid Top Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Grid Bottom",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Grid Bottom Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Top Right Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Top Right Fade Grid Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Top Left Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Top Left Fade Grid Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Bottom Right Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Bottom Right Fade Grid Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Bottom Left Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Bottom Left Fade Grid Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Cross Center Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/*  Diagonal Cross Center Fade Grid Background */}\n  <div\n    className=\"absolute inset-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Grid Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Top Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Top Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Bottom Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Bottom Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Top Left Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Top Left Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Top Right Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Top Right Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Bottom Right Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Bottom Right Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Bottom Left Fade Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Bottom Left Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dashed Center Fid Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Center Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Dark Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Blue Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f172a] relative\">\n  {/* Blue Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Purple Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Purple Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Cyan Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Cyan Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Orange Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Orange Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Pink Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Pink Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Gold Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Gold Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Red Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Red Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Lime Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Lime Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Emerald Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Emerald Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Aurora Waves",
+    "description": "Dynamic aurora borealis inspired wave pattern",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Waves Pattern */}\n  <style>{\\"
+  },
+  {
+    "title": "Aurora Dream Corner Whispers",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Dream Corner Whispers */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Aurora Dream Soft Harmony",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Dream Soft Harmony */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Aurora Dream Diagonal Flow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Dream Diagonal Flow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Aurora Dream Vivid Bloom",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Dream Vivid Bloom */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Dreamy Sky Pink Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#fefcff] relative\">\n  {/* Dreamy Sky Pink Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Peachy Mint Dream",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Peachy Mint Dream Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Soft Pastel Dream",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Soft Pastel Dream Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Dreamy Sunset Gradient",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f5f5dc] relative\">\n  {/* Dreamy Sunset Gradient Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Soft Morning Mist",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f8fafc] relative\">\n  {/* Soft Morning Mist Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Peachy Sunrise Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#fff7ed] relative\">\n  {/* Peachy Sunrise Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Mint Fresh Breeze",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f0fdfa] relative\">\n  {/* Mint Fresh Breeze Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Cotton Candy Sky",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Cotton Candy Sky Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Cotton Candy Sky Reverse",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Cotton Candy Sky Gradient - Opposite Direction */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Spring Meadow Mist",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Spring Meadow Mist Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Ocean Breeze Fade",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Ocean Breeze Fade Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Lavender Blush Left Flow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Lavender Blush Flow Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Lavender Blush Right Flow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Lavender Blush Flow Gradient (Top Left to Bottom Right) */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Minty Cloud Drift",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Minty Cloud Drift Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Rose Gold Whisper",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Rose Gold Whisper Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Aurora Silk Fade",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Silk Fade Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Warm Beige",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f5f5dc] relative\">\n  {/* Warm Beige Texture */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Soft Warm Pastel",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#fff8f0] relative\">\n  {/* Soft Warm Pastel Texture */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Warm Light Apricot & Coral",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#fff9f5] relative\">\n  {/* Warm Light Apricot & Coral */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Warm Soft Coral & Cream",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#fef9f7] relative\">\n  {/* Warm Soft Coral & Cream */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Soft Yellow Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Soft Yellow Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Soft Dark Yellow Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Soft Dark Yellow Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Orange Soft Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Orange Soft Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Soft Green Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Soft Green Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Purple Center Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n {/*Purple Center Glow */}\n <div\n   className=\"absolute inset-0 z-0 pointer-events-none\"\n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Green Center Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Green Center Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Indigo Center Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Indigo Center Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Lime Center  Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Lime Center Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Sunrise Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Sunrise Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Soft Lavender Center Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Soft Lavender Center Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Soft Pink Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Soft Pink Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Light Sky Blue Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Light Sky Blue Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Sunny Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n    {/* Sunny Glow Background */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Purple Glow Right",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Purple Glow Right */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Teal Glow Right",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Teal Glow Right */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Warm Orange Glow Right",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Warm Orange Glow Right */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Cool Blue Glow Right",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Cool Blue Glow Right */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Purple Glow Left",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Purple Glow Left */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Teal Glow Left",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Teal Glow Left */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Warm Orange Glow Left",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Warm Orange Glow Left */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Cool Blue Glow Left",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Cool Blue Glow Left */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Purple Glow Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Purple Glow Top */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Teal Glow Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Teal Glow Top */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Warm Orange Glow Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Warm Orange Glow Top */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Cool Blue Glow Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Cool Blue Glow Top */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Paper Texture",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#faf9f6] relative\">\n  {/* Paper Texture */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Stripes",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Diagonal Stripes Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \"repeating-linear-gradient(45deg, transparent, transparent 2px, #f3f4f6 2px, #f3f4f6 4px)\",\n    }}\n  />\n     {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Diagonal Grid - Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#fafafa] relative text-gray-900\">\n    {/* Diagonal Grid with Light */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Grid - Electric",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#fafafa] relative text-gray-900\">\n    {/* Diagonal Grid with Electric Orange */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Zigzag Lightning - Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative text-gray-800\">\n  {/* Zigzag Lightning - Light Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Circuit Board - Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative text-gray-800\">\n  {/* Circuit Board - Light Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Concentric Squares - Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative text-gray-800\">\n  {/* Concentric Squares - Light Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Woven Fabric - Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative text-gray-800\">\n  {/* Woven Fabric - Light Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Crosshatch Art - Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative text-gray-800\">\n  {/* Crosshatch Art - Light Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "White Grid with Dots",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* White Grid with Dots Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Noise Texture (Darker Dots)",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Noise Texture (Darker Dots) Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \"radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.35) 1px, transparent 0)\",\n      backgroundSize: \"20px 20px\",\n    }}\n  />\n     {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Circuit Board",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#f8fafc] relative\">\n  {/* Circuit Board Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#f8fafc\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Basic Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "White Sphere Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n {/* White Sphere Grid Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \"white\",\n     backgroundImage: \\"
+  },
+  {
+    "title": "Magenta Orb Grid Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n{/* Magenta Orb Grid Background */}\n<div\n className=\"absolute inset-0 z-0\"\n style={{\n   background: \"white\",\n   backgroundImage: \\"
+  },
+  {
+    "title": "Dark Sphere Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Dark Sphere Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#020617\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Magenta Orb Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Magenta Orb Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#020617\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Basic Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Dark Basic Grid Background - Slate 950 */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#020617\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Basic Grid (Faded)",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f172a] relative\">\n  {/* Dark Basic Grid Background - Faded */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#0f172a\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Black Basic Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Black Basic Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#000000\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Vercel Grid Subtle",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Vercel Grid */}\n    <div\n      className=\"absolute inset-0 opacity-30\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Dark Grid Lines",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n {/* Dark Grid Lines Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundImage: \\"
+  },
+  {
+    "title": "Pixel Grid Pattern",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n {/* Pixel Grid Pattern */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundColor: '#000000',\n     backgroundImage: \\"
+  },
+  {
+    "title": "Neon Vertical Lines",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Dark Dot Matrix",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n {/* Dark Dot Matrix */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundColor: '#0a0a0a',\n     backgroundImage: \\"
+  },
+  {
+    "title": "Small Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Small Grid Pattern */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Black Grid with White Dots",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Black Grid with White Dots Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#000000\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Grid with White Dots",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f172a] relative\">\n  {/* Dark Grid with White Dots Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#0f172a\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Dotted Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f172a] relative\">\n  {/* Dark Dotted Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#0f172a\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark White Dotted Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Dark White Dotted Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#000000\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Noise Colored",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Dark Noise Colored Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#000000\",\n      backgroundImage: \\"
+  },
+  {
+    "title": "Matrix Green",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#000000] relative text-white\">\n  {/* Gradient Diagonal Lines Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Grid - Green Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n    {/* Diagonal Grid with Green Glow */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Grid - Red/Blue Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n    {/* Diagonal Grid with Red/Blue Glow */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Grid - Electric Orange",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n    {/* Diagonal Grid with Red/Blue Glow */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Complex Multiplier",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#101014] relative text-white\">\n  {/* Complex Multiplier Pattern (Enhanced) */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Hexagonal Lines",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Hexagonal Pattern with Gap */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Diagonal Grid - Synthwave",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0a0a0a] relative text-white\">\n    {/* Diagonal Grid with Green Glow */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Gradient Left Diagonal Lines",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Gradient Diagonal Lines Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Gradient Right Diagonal Lines",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Gradient Diagonal Lines Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Cross Diagonal Lines",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Gradient Diagonal Lines Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Multi Cross Diagonal Lines",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Gradient Diagonal Lines Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Variable Spacing",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Variable Spacing Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Circuit Board Vibes",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Circuit Board Vibes Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Zigzag Lightning - Dark",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Zigzag Lightning - Dark Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Circuit Board - Dark",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Circuit Board - Dark Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Dark Circuit Board",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-[#171717]\">\n  {/* Dark Circuit Board Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Concentric Squares - Dark",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Concentric Squares - Dark Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Crosshatch Art - Dark",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n  {/* Crosshatch Art - Dark Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Aurora Midnight Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* X Organizations Black Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n       background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(120, 180, 255, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Crimson Shadow Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Crimson Shadow Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(255, 80, 120, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Emerald Depths Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Emerald Depths Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(16, 185, 129, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Violet Storm Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Violet Storm Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(139, 92, 246, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Golden Horizon Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Golden Horizon Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(251, 191, 36, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Ocean Abyss Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Ocean Abyss Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(6, 182, 212, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Rose Twilight Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Rose Twilight Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(244, 114, 182, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Copper Forge Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Copper Forge Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(249, 115, 22, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Arctic Lights Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Arctic Lights Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(34, 197, 94, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Indigo Cmuktas Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Indigo Cmuktas Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(99, 102, 241, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Pearl Mist Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Pearl Mist Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(226, 232, 240, 0.15), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Magenta Nebula Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Magenta Nebula Background with Top Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse 80% 60% at 50% 0%, rgba(236, 72, 153, 0.25), transparent 70%), #000000\",\n      }}\n    />\n  \n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Pink Aurora Top",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n {/* Pink Aurora Top Background */}\n <div\n   className=\"absolute inset-0 z-0 pointer-events-none\"\n   style={{\n     background: \\"
+  },
+  {
+    "title": "Crystal Maze",
+    "description": "Elegant crystalline pattern with subtle prismatic reflections",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Crystal Maze Pattern */}\n  <style>{\\"
+  },
+  {
+    "title": "Moonlit Fog",
+    "description": "Soft, ethereal gradient inspired by moonlit foggy nights",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Moonlit Fog Pattern */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Pastel Wave",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Pastel Wave */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"linear-gradient(120deg, #d5c5ff 0%, #a7f3d0 50%, #f0f0f0 100%)\"\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Soft Blue Radial",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n {/* Soft Blue Radial Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \"#ffffff\",\n     backgroundImage: \\"
+  },
+  {
+    "title": "Morning Haze",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n    {/* Morning Haze */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Midnight Mist",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Midnight Mist */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Aurora Mystic Mist",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Aurora Mystic Mist Background */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Tropical Dusk Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Tropical Dusk Glow Background */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Ember Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Ember Glow Background */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Cosmic Aurora",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-[#0a0a0a] relative\">\n  {/* Cosmic Aurora */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Midnight Ember",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative\">\n    {/* Midnight Ember */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse at center, #3d2914 0%, #2a1810 30%, #1a0f0a 60%, #0d0806 100%)\"\n      }}\n    />\n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Deep Ocean Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Deep Ocean Glow */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background:\n         \"radial-gradient(70% 55% at 50% 50%, #2a5d77 0%, #184058 18%, #0f2a43 34%, #0a1b30 50%, #071226 66%, #040d1c 80%, #020814 92%, #01040d 97%, #000309 100%), radial-gradient(160% 130% at 10% 10%, rgba(0,0,0,0) 38%, #000309 76%, #000208 100%), radial-gradient(160% 130% at 90% 90%, rgba(0,0,0,0) 38%, #000309 76%, #000208 100%)\"\n      }}\n    />\n    {/* Your Content/Components */}\n  </div>"
+  },
+  {
+    "title": "Cosmic Noise",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Cosmic Noise */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(circle at 20% 20%, rgba(255,255,255,0.08) 0%, transparent 40%), radial-gradient(circle at 80% 30%, rgba(255,255,255,0.05) 0%, transparent 40%), linear-gradient(120deg, #0f0e17 0%, #1a1b26 100%)\"\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Volcanic Ember",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Volcanic Ember */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Crimson Core Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Crimson Core Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background:\n         \"linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), radial-gradient(68% 58% at 50% 50%, #c81e3a 0%, #a51d35 16%, #7d1a2f 32%, #591828 46%, #3c1722 60%, #2a151d 72%, #1f1317 84%, #141013 94%, #0a0a0a 100%), radial-gradient(90% 75% at 50% 50%, rgba(228,42,66,0.06) 0%, rgba(228,42,66,0) 55%), radial-gradient(150% 120% at 8% 8%, rgba(0,0,0,0) 42%, #0b0a0a 82%, #070707 100%), radial-gradient(150% 120% at 92% 92%, rgba(0,0,0,0) 42%, #0b0a0a 82%, #070707 100%), radial-gradient(60% 50% at 50% 60%, rgba(240,60,80,0.06), rgba(0,0,0,0) 60%), #050505\",\n    }}\n  />\n  {/* Soft vignette to blend edges */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage:\n        \"radial-gradient(circle at 50% 50%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.5) 100%)\",\n      opacity: 0.95,\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+  },
+  {
+    "title": "Northern Aurora",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Northern Aurora */}\n     <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \\"
+  },
+  {
+    "title": "Cosmic Sparkle",
+    "description": "Starry night sky effect with twinkling dots",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Cosmic Sparkle Pattern */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Striped Dark",
+    "description": "",
+    "code": "\n<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Striped Dark */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background:\n        \"repeating-linear-gradient(45deg, #000 0px, #111 2px, #000 4px, #222 6px)\",\n    }}\n  />\n  \n  <div\n    className=\"absolute inset-0 z-10 pointer-events-none\"\n    style={{\n      background: \"rgba(255, 255, 255, 0.02)\",\n      backdropFilter: \"blur(45px) grayscale(20%)\",\n      WebkitBackdropFilter: \"blur(45px) grayscale(20%)\",\n    }}\n  />\n\n  {/* Your Content/Components */}\n</div>\n"
+  },
+  {
+    "title": "Midnight Aurora Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Midnight Aurora Glow Background */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Midnight Radial Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen bg-black w-full relative\">\n  {/* Midnight Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Deep Navy & Gold",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-slate-900 relative\">\n  {/* Deep Navy & Gold Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Rich Burgundy",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-stone-900 relative\">\n  {/* Rich Burgundy Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Forest Emerald",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-gray-900 relative\">\n  {/* Forest Emerald Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Royal Purple",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-zinc-900 relative\">\n  {/* Royal Purple Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Copper & Bronze",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-stone-900 relative\">\n  {/* Copper & Bronze Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Steel Blue",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-stone-950 relative\">\n  {/* Steel Blue Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Warm Amber",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\" style={{ backgroundColor: \"#0f0f23\" }}>\n  {/* Warm Amber Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Moonlight Silver",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-slate-950 relative\">\n  {/* Moonlight Silver Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "White Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* White Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Blue Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* Blue Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Emerald Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* Emerald Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Crimson Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* Crimson Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Violet Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* Violet Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Amber Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* Amber Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Cyan Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* Cyan Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Rose Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  {/* Rose Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Center Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n {/* Center Spotlight Background */}\n <div\n   className=\"absolute inset-0 z-0 pointer-events-none\"\n   style={{\n     background: \\"
+  },
+  {
+    "title": "Top Spotlight",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n {/* Top Spotlight Background */}\n <div\n   className=\"absolute inset-0 z-0 pointer-events-none\"\n   style={{\n     background: \\"
+  },
+  {
+    "title": "Aurora Edge Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n {/* Aurora Edge Glow Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \"radial-gradient(ellipse 50% 100% at 10% 0%, rgba(226, 232, 240, 0.15), transparent 65%), #000000\",\n   }}\n />\n {/* Your Content Here */}\n</div>"
+  },
+  {
+    "title": "Purple Radial Bloom Light",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Purple Radial Bloom Light Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Purple Corner Less",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Purple Corner Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Purple Corner High",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Purple Corner Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Blue Corner Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Blue Corner Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Green Corner Soft",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Green Corner Soft Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Pink Corner Dream",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Pink Corner Dream Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Orange Corner Warm",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Orange Corner Warm Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Teal Corner Cool",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Teal Corner Cool Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Yellow Corner Bright",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Yellow Corner Bright Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Indigo Corner Deep",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Indigo Corner Deep Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Rose Corner Elegant",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Rose Corner Elegant Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Violet Dream Sphere",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Violet Dream Sphere Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Lavender Cosmic Glow",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Lavender Cosmic Glow Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Purple Haze Burst",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Purple Haze Burst Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Mystic Purple Orb",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Mystic Purple Orb Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+  },
+  {
+    "title": "Soft Rose Glow Right Corner",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n    {/* Soft Rose Glow Right Corner Background */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Soft Rose Glow Left Corner",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n    {/* Soft Rose Glow Left Corner Background */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Soft Rose Glow Dual Corners",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n    {/* Soft Rose Glow Dual Corners Background */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+  },
+  {
+    "title": "Prismatic Aurora Burst",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full relative bg-black\">\n    {/* Prismatic Aurora Burst - Multi-layered Gradient */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \\"
+  },
+  {
+    "title": "Cosmic Nebula",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n {/* Cosmic Nebula */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \\"
+  },
+  {
+    "title": "Stellar Mist",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-black relative\">\n {/* Stellar Mist */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \\"
+  },
+  {
+    "title": "Diagonal Striped Grid",
+    "description": "",
+    "code": "<div className=\"min-h-screen w-full bg-white relative grid-animated-container\">\n  {/* Diagonal Striped Grid Spotlight Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+  },
+  {
+    "title": "Pattern 1",
+    "description": "",
+    "code": "<div class=\"bg\" aria-hidden=\"true\">\n  <style>\n/* Page baseline */\r\n  html,body{height:100%}\r\n  body{\r\n    margin:0;\r\n    background:#ffffff;\r\n    overflow:hidden; /* keep the ellipse clean */\r\n  }\r\n\r\n  /* Background wrapper */\r\n  .bg{\r\n    position:relative;\r\n    width:100%;\r\n    height:100vh;\r\n  }\r\n\r\n  /* Golden glow ellipse */\r\n  .glow{\r\n    position:absolute;\r\n    left:50%;\r\n    top:-280px;\r\n    transform:translateX(-50%);\r\n    width:1720px;\r\n    height:920px;\r\n    pointer-events:none;\r\n    z-index:0;\r\n\r\n    background:\r\n      radial-gradient(1200px 520px at 50% 0%,\r\n        rgba(255,255,255,1) 0%,\r\n        rgba(255,255,255,.98) 6%,\r\n        rgba(255,255,255,.92) 10%,\r\n        rgba(255,255,255,0) 12%),\r\n      radial-gradient(1200px 520px at 50% 0%,\r\n        rgba(244,197,91,.96) 0%,\r\n        rgba(244,197,91,.85) 16%,\r\n        rgba(244,197,91,.55) 36%,\r\n        rgba(244,197,91,.28) 55%,\r\n        rgba(244,197,91,.14) 66%,\r\n        rgba(244,197,91,0) 86%);\r\n    background-repeat:no-repeat,no-repeat;\r\n    background-position:center top, center top;\r\n    background-size:100% 100%,100% 100%;\r\n  }\r\n\r\n  /* Fine grain texture clipped to ellipse */\r\n  .grain{\r\n    position:absolute;\r\n    left:50%;\r\n    top:-280px;\r\n    transform:translateX(-50%);\r\n    width:1720px;\r\n    height:920px;\r\n    pointer-events:none;\r\n    z-index:1;\r\n\r\n    background-image:url(\"data:image/svg+xml;utf8,\\\r\n<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220' viewBox='0 0 220 220' preserveAspectRatio='none'>\\\r\n  <filter id='n'>\\\r\n    <feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/>\\\r\n    <feColorMatrix type='saturate' values='0'/>\\\r\n  </filter>\\\r\n  <rect width='100%' height='100%' filter='url(%23n)' opacity='0.35'/>\\\r\n</svg>\");\r\n    background-size:220px 220px;\r\n    background-repeat:repeat;\r\n\r\n    -webkit-mask-image: radial-gradient(1200px 520px at 50% 0%,\r\n        rgba(0,0,0,1) 0%,\r\n        rgba(0,0,0,1) 64%,\r\n        rgba(0,0,0,.8) 72%,\r\n        rgba(0,0,0,.35) 80%,\r\n        rgba(0,0,0,0) 90%);\r\n            mask-image: radial-gradient(1200px 520px at 50% 0%,\r\n        rgba(0,0,0,1) 0%,\r\n        rgba(0,0,0,1) 64%,\r\n        rgba(0,0,0,.8) 72%,\r\n        rgba(0,0,0,.35) 80%,\r\n        rgba(0,0,0,0) 90%);\r\n    mix-blend-mode:multiply;\r\n    opacity:.55;\r\n  }\r\n\r\n  /* Optional: responsive tuning for smaller widths */\r\n  @media (max-width:980px){\r\n    .glow,.grain{\r\n      width:1400px; height:820px; top:-260px;\r\n      -webkit-mask-image: radial-gradient(980px 460px at 50% 0%, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 65%, rgba(0,0,0,0) 88%);\r\n              mask-image: radial-gradient(980px 460px at 50% 0%, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 65%, rgba(0,0,0,0) 88%);\r\n    }\r\n  }\n  </style>\n  <div class=\"glow\"></div>\n  <div class=\"grain\"></div>\n</div>"
+  },
+  {
+    "title": "Pattern 2",
+    "description": "",
+    "code": "<style>\n/* Page base */\r\n    html,body{height:100%}\r\n    body{\r\n      margin:0;\r\n      background:#fff;\r\n      position:relative;\r\n      overflow:hidden;\r\n      -webkit-font-smoothing:antialiased;\r\n    }\r\n\r\n    /* Grainy golden halo background (top-centered) */\r\n    body::before{\r\n      content:\"\";\r\n      position:absolute;\r\n      left:50%;\r\n      transform:translateX(-50%);\r\n      top:-18vh;\r\n      width:160vmin;\r\n      height:70vmin;\r\n      max-width:1400px;\r\n      max-height:640px;\r\n      pointer-events:none;\r\n      z-index:0;\r\n\r\n      /* Layer 1: soft gold ellipse\r\n         Layer 2: seamless noise for speckled texture\r\n      */\r\n      background-image:\r\n        radial-gradient(60% 60% at 50% 10%,\r\n          rgba(255,225,140,.96) 0%,\r\n          rgba(249,205,98,.78) 24%,\r\n          rgba(245,194,80,.52) 40%,\r\n          rgba(255,255,255,0) 78%),\r\n        url(\"data:image/svg+xml;utf8,\\\r\n<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'>\\\r\n  <filter id='n' x='-20%' y='-20%' width='140%' height='140%'>\\\r\n    <feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' seed='8' stitchTiles='stitch'/>\\\r\n    <feColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 .7 0'/>\\\r\n  </filter>\\\r\n  <rect width='120' height='120' filter='url(%23n)' opacity='.12'/>\\\r\n</svg>\");\r\n      background-repeat:no-repeat, repeat;\r\n      background-size:100% 100%, 180px 180px;\r\n    }\n</style>"
+  }
+]
