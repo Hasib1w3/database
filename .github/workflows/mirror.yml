@@ -1,4 +1,23 @@
 # .github/workflows/mirror.yml
+# If You Want 100% GUARANTEED Mirror (Nuclear Option) -- but this is for your mental satisfaction keep this on commented if in future i update this file.
+#YAML
+
+# Instead of rclone sync, do delete all + upload all:
+#
+#      - name: Sync to R2
+#        run: |
+#          # ... rclone config same as before ...
+
+#          # STEP 1: Delete EVERYTHING on R2
+#          rclone delete r2:${R2_BUCKET_NAME} --rmdirs
+
+#          # STEP 2: Upload EVERYTHING fresh
+#          rclone copy . r2:${R2_BUCKET_NAME} \
+#            --exclude ".git/**" \
+#            --exclude ".github/**" \
+#            --exclude ".gitignore" \
+#            --transfers 32
+
 
 name: Mirror to R2
 
@@ -34,6 +53,7 @@ jobs:
           EOF
 
           rclone sync . r2:${R2_BUCKET_NAME} \
+            --checksum \           # Force checksum comparison but makes process slower.
             --exclude ".git/**" \
             --exclude ".github/**" \
             --exclude ".gitignore" \
