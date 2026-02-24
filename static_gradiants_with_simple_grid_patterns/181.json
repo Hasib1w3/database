@@ -1,0 +1,5 @@
+{
+  "title": "Crystal Maze",
+  "description": "Elegant crystalline pattern with subtle prismatic reflections",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Crystal Maze Pattern */}\n  <style>{\\"
+}

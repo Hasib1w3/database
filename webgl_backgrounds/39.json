@@ -1,0 +1,6 @@
+{
+  "title": "Liquid Effect",
+  "description": "",
+  "code": "index.html: <div id=\"app\"> <canvas id=\"canvas\"></canvas> <a target=\"_blank\" href=\"https://www.framer.com/@kevin-levron/\">Framer Component</a> </div>\nstyle.css: body, html, #app { margin: 0; width: 100%; height: 100%; } body { touch-action: none; } #app { height: 100%; font-family: \"Montserrat\", serif; } #canvas { position: fixed; top: 0; right: 0; bottom: 0; left: 0; overflow: hidden; } a { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); color: #fff; text-decoration: none; text-shadow: 1px 1px 2px black; }\nscript.js: // Licence CC BY-NC-SA 4.0 // Attribution — You must give appropriate credit. // Non Commercial — You may not use the material for commercial purposes. import LiquidBackground from 'https://cdn.jsdelivr.net/npm/threejs-components@0.0.27/build/backgrounds/liquid1.min.js' const app = LiquidBackground(document.getElementById('canvas')) app.loadImage('https://assets.codepen.io/33787/liquid.webp') app.liquidPlane.material.metalness = 0.75 app.liquidPlane.material.roughness = 0.25 app.liquidPlane.uniforms.displacementScale.value = 5 app.setRain(false)",
+  "id": "liquid-effect"
+}

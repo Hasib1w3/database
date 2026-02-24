@@ -1,0 +1,5 @@
+{
+  "title": "Spring Meadow Mist",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Spring Meadow Mist Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

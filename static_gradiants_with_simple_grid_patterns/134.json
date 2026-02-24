@@ -1,0 +1,5 @@
+{
+  "title": "Dark Sphere Grid",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#020617] relative\">\n  {/* Dark Sphere Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#020617\",\n      backgroundImage: \\"
+}

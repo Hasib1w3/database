@@ -1,0 +1,5 @@
+{
+  "title": "Pixel Grid Pattern",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n {/* Pixel Grid Pattern */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundColor: '#000000',\n     backgroundImage: \\"
+}

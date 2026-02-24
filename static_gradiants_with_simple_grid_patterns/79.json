@@ -1,0 +1,5 @@
+{
+  "title": "Peachy Sunrise Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#fff7ed] relative\">\n  {/* Peachy Sunrise Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Vercel Grid Subtle",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-black relative\">\n    {/* Vercel Grid */}\n    <div\n      className=\"absolute inset-0 opacity-30\"\n      style={{\n        backgroundImage: \\"
+}

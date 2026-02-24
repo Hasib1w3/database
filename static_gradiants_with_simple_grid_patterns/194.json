@@ -1,0 +1,5 @@
+{
+  "title": "Volcanic Ember",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Volcanic Ember */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

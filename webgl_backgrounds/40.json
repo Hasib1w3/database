@@ -1,0 +1,6 @@
+{
+  "title": "Animated Waves Background with Vanta.js",
+  "description": "Absolute-positioned component that renders interactive, customizable wave animations via Vanta.js and Three.js. Adds a dynamic, responsive backdrop ideal for hero sections, full-page backgrounds, or overlays.",
+  "code": "<div id=\"vanta-bg\" class=\"absolute inset-0 z-0 opacity-60\">\n  <script src=\"https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js\"></script>\n  <script src=\"https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.waves.min.js\"></script>\n  <script>\n    document.addEventListener('DOMContentLoaded', function() {\n      VANTA.WAVES({\n        el: \"#vanta-bg\",\n        mouseControls: true,\n        touchControls: true,\n        gyroControls: false,\n        minHeight: 200.00,\n        minWidth: 200.00,\n        scale: 1.00,\n        scaleMobile: 1.00,\n        color: 0x0055ff,\n        shininess: 35.00,\n        waveHeight: 15.00,\n        waveSpeed: 0.75,\n        zoom: 0.65\n      });\n    });\n  </script>\n</div>",
+  "id": "animated-waves-background-with-vantajs"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Dark Dotted Grid",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#0f172a] relative\">\n  {/* Dark Dotted Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#0f172a\",\n      backgroundImage: \\"
+}

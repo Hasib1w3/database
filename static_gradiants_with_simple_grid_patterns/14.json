@@ -1,0 +1,5 @@
+{
+  "title": "Bottom Emerald Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Emerald Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

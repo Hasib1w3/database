@@ -1,0 +1,5 @@
+{
+  "title": "Grid Dual Purple Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n {/* Grid + Left & Right Gradient Glow */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundImage: \\"
+}

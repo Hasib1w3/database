@@ -1,0 +1,5 @@
+{
+  "title": "Green Center Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\"> \n {/* Green Center Glow */}\n <div \n   className=\"absolute inset-0 z-0 pointer-events-none\" \n   style={{\n     backgroundImage: \\"
+}

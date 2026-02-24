@@ -1,0 +1,5 @@
+{
+  "title": "Concentric Squares - Light",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative text-gray-800\">\n  {/* Concentric Squares - Light Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Diagonal Grid - Synthwave",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#0a0a0a] relative text-white\">\n    {/* Diagonal Grid with Green Glow */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+}

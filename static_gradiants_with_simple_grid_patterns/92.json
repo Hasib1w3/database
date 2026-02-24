@@ -1,0 +1,5 @@
+{
+  "title": "Warm Light Apricot & Coral",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#fff9f5] relative\">\n  {/* Warm Light Apricot & Coral */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

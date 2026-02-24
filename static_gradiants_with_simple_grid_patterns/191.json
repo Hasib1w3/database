@@ -1,0 +1,5 @@
+{
+  "title": "Midnight Ember",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n    {/* Midnight Ember */}\n    <div\n      className=\"absolute inset-0 z-0\"\n      style={{\n        background: \"radial-gradient(ellipse at center, #3d2914 0%, #2a1810 30%, #1a0f0a 60%, #0d0806 100%)\"\n      }}\n    />\n    {/* Your Content/Components */}\n  </div>"
+}

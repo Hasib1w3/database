@@ -1,0 +1,5 @@
+{
+  "title": "Orange Corner Warm",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n  {/* Orange Corner Warm Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

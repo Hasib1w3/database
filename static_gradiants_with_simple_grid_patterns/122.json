@@ -1,0 +1,5 @@
+{
+  "title": "Diagonal Grid - Electric",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#fafafa] relative text-gray-900\">\n    {/* Diagonal Grid with Electric Orange */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+}

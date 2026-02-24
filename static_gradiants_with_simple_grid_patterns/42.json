@@ -1,0 +1,5 @@
+{
+  "title": "Diagonal Fade Center Grid",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#f9fafb] relative\">\n  {/* Diagonal Fade Center Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

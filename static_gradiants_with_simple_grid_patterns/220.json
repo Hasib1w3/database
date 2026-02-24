@@ -1,0 +1,5 @@
+{
+  "title": "Purple Radial Bloom Light",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Purple Radial Bloom Light Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

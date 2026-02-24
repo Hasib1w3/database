@@ -1,0 +1,5 @@
+{
+  "title": "Aurora Dream Soft Harmony",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Dream Soft Harmony */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

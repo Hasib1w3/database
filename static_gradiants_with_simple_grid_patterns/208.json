@@ -1,0 +1,5 @@
+{
+  "title": "Moonlight Silver",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-slate-950 relative\">\n  {/* Moonlight Silver Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

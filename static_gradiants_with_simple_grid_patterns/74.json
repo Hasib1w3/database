@@ -1,0 +1,5 @@
+{
+  "title": "Dreamy Sky Pink Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#fefcff] relative\">\n  {/* Dreamy Sky Pink Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

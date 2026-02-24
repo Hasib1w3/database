@@ -1,0 +1,5 @@
+{
+  "title": "lenis-smooth-scroll-setup",
+  "code": "Documentation\n\nSetup: External Scripts\n\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/lenis@1.2.3/dist/lenis.css\">\n\n\n<script src=\"https://cdn.jsdelivr.net/npm/lenis@1.2.3/dist/lenis.min.js\">script>\n\nStep 2: Add custom Javascript\n\n// Lenis\nconst lenis = new Lenis({\n  autoRaf: true,\n});\n\nImplementation\n\nDocumentation\nFor all instance settings please read the Lenis Documentation on Github\n\nNested Scroll\nFor modals or other elements that have overflow: scroll; add the data-attribute [data-lenis-prevent]\n\nStop/Pause Scroll\nCall lenis.stop(); to disable the scroll for the user, for example when opening a modal.\n\nStart Scroll\nCall lenis.start(); to enable scroll again.\n\nScroll-To Anchor Target\nFor more information how to implement lenis.scrollTo(): Lenis Scroll-To Anchor Target\n\nUsing with GSAP Scrolltrigger\n// Lenis (with GSAP Scroltrigger)\nconst lenis = new Lenis();\nlenis.on('scroll', ScrollTrigger.update);\ngsap.ticker.add((time) => {lenis.raf(time * 1000);});\ngsap.ticker.lagSmoothing(0);",
+  "id": "lenis-smooth-scroll-setup"
+}

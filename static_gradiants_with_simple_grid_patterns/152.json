@@ -1,0 +1,5 @@
+{
+  "title": "Diagonal Grid - Red/Blue Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#0f0f0f] relative text-white\">\n    {/* Diagonal Grid with Red/Blue Glow */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+}

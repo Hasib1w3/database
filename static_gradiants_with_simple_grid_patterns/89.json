@@ -1,0 +1,5 @@
+{
+  "title": "Aurora Silk Fade",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Silk Fade Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

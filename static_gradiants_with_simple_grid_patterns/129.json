@@ -1,0 +1,5 @@
+{
+  "title": "Noise Texture (Darker Dots)",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Noise Texture (Darker Dots) Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \"radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.35) 1px, transparent 0)\",\n      backgroundSize: \"20px 20px\",\n    }}\n  />\n     {/* Your Content/Components */}\n</div>"
+}

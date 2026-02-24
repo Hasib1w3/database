@@ -1,0 +1,5 @@
+{
+  "title": "Woven Fabric - Light",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative text-gray-800\">\n  {/* Woven Fabric - Light Pattern */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+}

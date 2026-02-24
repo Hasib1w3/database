@@ -1,0 +1,5 @@
+{
+  "title": "Cosmic Nebula",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-black relative\">\n {/* Cosmic Nebula */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \\"
+}

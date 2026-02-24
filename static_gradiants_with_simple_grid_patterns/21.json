@@ -1,0 +1,5 @@
+{
+  "title": "Dark Horizon Glow Top",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dark Horizon Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #000000 40%, #0d1a36 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+}

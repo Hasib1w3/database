@@ -1,0 +1,5 @@
+{
+  "title": "Striped Dark",
+  "description": "",
+  "code": "\n<div className=\"min-h-screen w-full bg-black relative\">\n  {/* Striped Dark */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background:\n        \"repeating-linear-gradient(45deg, #000 0px, #111 2px, #000 4px, #222 6px)\",\n    }}\n  />\n  \n  <div\n    className=\"absolute inset-0 z-10 pointer-events-none\"\n    style={{\n      background: \"rgba(255, 255, 255, 0.02)\",\n      backdropFilter: \"blur(45px) grayscale(20%)\",\n      WebkitBackdropFilter: \"blur(45px) grayscale(20%)\",\n    }}\n  />\n\n  {/* Your Content/Components */}\n</div>\n"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Bottom Fade Grid",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#f8fafc] relative\">\n  {/* Bottom Fade Grid Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

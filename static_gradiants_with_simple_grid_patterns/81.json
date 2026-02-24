@@ -1,0 +1,5 @@
+{
+  "title": "Cotton Candy Sky",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Cotton Candy Sky Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "dynamic-current-year",
+  "code": "Documentation\n\nStep 1: Add HTML\n\n<p>© <span data-current-year=\"\">20??span> muktap>\n\nStep 2: Add custom Javascript\n\nfunction initDynamicCurrentYear() {  \n  const currentYear = new Date().getFullYear();\n  const currentYearElements = document.querySelectorAll('[data-current-year]');\n  currentYearElements.forEach(currentYearElement => {\n    currentYearElement.textContent = currentYear;\n  });\n}\n\n// Initialize Dynamic Current Year\ndocument.addEventListener('DOMContentLoaded', () => {\n  initDynamicCurrentYear();\n});\n\nImplementation\nAll elements on the page with attribute [data-current-year] will be updated with the correct year. You can add a placeholder like 20?? for the client to see that that number will be updated dynamically.",
+  "id": "dynamic-current-year"
+}

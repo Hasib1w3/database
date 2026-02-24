@@ -1,0 +1,5 @@
+{
+  "title": "Moonlit Fog",
+  "description": "Soft, ethereal gradient inspired by moonlit foggy nights",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Moonlit Fog Pattern */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

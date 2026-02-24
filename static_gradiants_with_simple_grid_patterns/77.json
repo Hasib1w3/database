@@ -1,0 +1,5 @@
+{
+  "title": "Dreamy Sunset Gradient",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#f5f5dc] relative\">\n  {/* Dreamy Sunset Gradient Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

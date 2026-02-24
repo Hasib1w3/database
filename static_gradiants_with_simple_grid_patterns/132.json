@@ -1,0 +1,5 @@
+{
+  "title": "White Sphere Grid",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n {/* White Sphere Grid Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \"white\",\n     backgroundImage: \\"
+}

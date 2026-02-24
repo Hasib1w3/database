@@ -1,0 +1,5 @@
+{
+  "title": "Aurora Edge Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n {/* Aurora Edge Glow Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     background: \"radial-gradient(ellipse 50% 100% at 10% 0%, rgba(226, 232, 240, 0.15), transparent 65%), #000000\",\n   }}\n />\n {/* Your Content Here */}\n</div>"
+}

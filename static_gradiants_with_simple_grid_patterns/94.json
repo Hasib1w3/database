@@ -1,0 +1,5 @@
+{
+  "title": "Soft Yellow Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Soft Yellow Glow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

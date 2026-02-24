@@ -1,0 +1,5 @@
+{
+  "title": "Diagonal Stripes",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Diagonal Stripes Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \"repeating-linear-gradient(45deg, transparent, transparent 2px, #f3f4f6 2px, #f3f4f6 4px)\",\n    }}\n  />\n     {/* Your Content/Components */}\n</div>"
+}

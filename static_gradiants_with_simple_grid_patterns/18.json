@@ -1,0 +1,5 @@
+{
+  "title": "Violet Abyss",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Violet Abyss */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 90%, #000000 40%, #2b092b 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+}

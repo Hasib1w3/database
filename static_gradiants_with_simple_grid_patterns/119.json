@@ -1,0 +1,5 @@
+{
+  "title": "Paper Texture",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#faf9f6] relative\">\n  {/* Paper Texture */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

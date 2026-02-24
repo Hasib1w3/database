@@ -1,0 +1,5 @@
+{
+  "title": "Neon Vertical Lines",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      background: \\"
+}

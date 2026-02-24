@@ -1,0 +1,5 @@
+{
+  "title": "Purple Gradient Grid Left",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Purple Gradient Grid Left Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

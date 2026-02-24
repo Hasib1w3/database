@@ -1,0 +1,5 @@
+{
+  "title": "Soft Rose Glow Left Corner",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative overflow-hidden\">\n    {/* Soft Rose Glow Left Corner Background */}\n    <div\n      className=\"absolute inset-0 z-0 pointer-events-none\"\n      style={{\n        backgroundImage: \\"
+}

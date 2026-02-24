@@ -1,0 +1,5 @@
+{
+  "title": "Soft Warm Pastel",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#fff8f0] relative\">\n  {/* Soft Warm Pastel Texture */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

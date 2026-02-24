@@ -1,0 +1,5 @@
+{
+  "title": "Rose Gold Whisper",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Rose Gold Whisper Gradient */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

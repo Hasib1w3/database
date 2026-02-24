@@ -1,0 +1,5 @@
+{
+  "title": "Midnight Radial Glow",
+  "description": "",
+  "code": "<div className=\"min-h-screen bg-black w-full relative\">\n  {/* Midnight Radial Glow Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

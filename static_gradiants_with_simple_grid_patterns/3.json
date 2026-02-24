@@ -1,0 +1,5 @@
+{
+  "title": "Top Violet Radial",
+  "description": "Rich violet from top - luxury feel for premium brands",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background from Top */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 10%, #fff 40%, #7c3aed 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "liquid text mask",
+  "description": "",
+  "code": "index.html: <div class=\"mask\">MIATA</div>\nstyle.css: @import url(https://fonts.googleapis.com/css?family=Montserrat:700); @property --o {syntax: \"<number>\";initial-value:1;inherits: true} body { margin: 0; height: 100vh; background: conic-gradient(rgb(0 0 0/var(--o)) 0 0), url('https://assets.codepen.io/32887/91-brg.jpg') 50%/cover no-repeat; animation: --o 3s forwards ease-out 1s; } @keyframes --o {to{--o:0}} .mask { position: fixed; inset: 0; display: grid; place-items: center; place-content: center; font: bold 5vmax Montserrat, sans-serif; background: url('https://assets.codepen.io/32887/91-brg.jpg') 50%/cover no-repeat; -webkit-background-clip: text; background-clip: text; color: #0000; -webkit-text-fill-color: #0000; scale: 2; animation: reveal 3s forwards ease-out 1s; } @keyframes reveal { to { scale: 1; font-size: 180vmax; } }\nscript.js: ",
+  "id": "liquid-text-mask"
+}

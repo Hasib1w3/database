@@ -1,0 +1,6 @@
+{
+  "title": "Link Hover Effect",
+  "description": "",
+  "code": "index.html: <link href=\"//db.onlinewebfonts.com/c/55d433372d270829c51e2577a78ef12d?family=Monument+Extended\" rel=\"stylesheet\" type=\"text/css\"/> <a class=\"wrap\" href=\"#\"> <div class=\"text\">boring text</div></a><a class=\"wrap\" href=\"#\"> <div class=\"text\">boring text</div></a>\nstyle.css: html, body { margin: 0; padding: 0; width: 100%; height: 100vh; background: #161616; } body { display: flex; align-items: center; justify-content: center; height: 100vh; font-family: \"Monument Extended\"; text-transform: uppercase; font-size: 3vw; } a.wrap { color: #fff; text-decoration: none; overflow-y: hidden; position: absolute; }\nscript.js: let $text = $('.text'), \t$text1 = new SplitText($text.eq(0), {type:\"words,chars\"}), chars1 = $text1.chars; let\t$text2 = new SplitText($text.eq(1), {type:\"words,chars\"}), chars2 = $text2.chars; let tlHover = new TimelineMax({paused:true}) \t.staggerTo(chars1, 0.8, {yPercent: -100, ease: Power3.easeInOut}, 0.03) \t.staggerFrom(chars2, 0.8, {yPercent: 100, ease: Power3.easeInOut}, 0.03,.1); $text.hover(function(){ \ttlHover.play(); }, function(){ \t \ttlHover.reverse(); })",
+  "id": "link-hover-effect"
+}

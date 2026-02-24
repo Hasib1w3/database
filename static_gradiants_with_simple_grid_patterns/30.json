@@ -1,0 +1,5 @@
+{
+  "title": "Dual Gradient Overlay Swapped",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Dual Gradient Overlay Swapped Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

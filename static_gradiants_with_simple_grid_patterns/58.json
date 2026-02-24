@@ -1,0 +1,5 @@
+{
+  "title": "Dashed Center Fid Grid",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Dashed Center Fade Grid */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Bottom Slate Radial",
+  "description": "Sophisticated slate from bottom - clean and professional",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Radial Gradient Background from Bottom */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"radial-gradient(125% 125% at 50% 90%, #fff 40%, #475569 100%)\",\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+}

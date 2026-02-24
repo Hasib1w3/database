@@ -1,0 +1,5 @@
+{
+  "title": "Aurora Dream Diagonal Flow",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Dream Diagonal Flow */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \\"
+}

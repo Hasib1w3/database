@@ -1,0 +1,5 @@
+{
+  "title": "Deep Navy & Gold",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-slate-900 relative\">\n  {/* Deep Navy & Gold Background */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}

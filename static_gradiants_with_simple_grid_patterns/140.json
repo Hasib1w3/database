@@ -1,0 +1,5 @@
+{
+  "title": "Dark Grid Lines",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-black relative overflow-hidden\">\n {/* Dark Grid Lines Background */}\n <div\n   className=\"absolute inset-0 z-0\"\n   style={{\n     backgroundImage: \\"
+}

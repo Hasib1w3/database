@@ -1,0 +1,5 @@
+{
+  "title": "Aurora Waves",
+  "description": "Dynamic aurora borealis inspired wave pattern",
+  "code": "<div className=\"min-h-screen w-full relative\">\n  {/* Aurora Waves Pattern */}\n  <style>{\\"
+}

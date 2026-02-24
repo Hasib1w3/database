@@ -1,0 +1,5 @@
+{
+  "title": "Dark Circuit Board",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative bg-[#171717]\">\n  {/* Dark Circuit Board Background */}\n  <div\n    className=\"absolute inset-0 z-0 pointer-events-none\"\n    style={{\n      backgroundImage: \\"
+}

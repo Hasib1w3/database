@@ -1,0 +1,5 @@
+{
+  "title": "Warm Orange Glow Left",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full relative bg-white\">\n  {/* Warm Orange Glow Left */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"#ffffff\",\n      backgroundImage: \\"
+}

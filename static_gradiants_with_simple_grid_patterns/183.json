@@ -1,0 +1,5 @@
+{
+  "title": "Pastel Wave",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-white relative\">\n  {/* Pastel Wave */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      background: \"linear-gradient(120deg, #d5c5ff 0%, #a7f3d0 50%, #f0f0f0 100%)\"\n    }}\n  />\n  {/* Your Content/Components */}\n</div>"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Warm Soft Coral & Cream",
+  "description": "",
+  "code": "<div className=\"min-h-screen w-full bg-[#fef9f7] relative\">\n  {/* Warm Soft Coral & Cream */}\n  <div\n    className=\"absolute inset-0 z-0\"\n    style={{\n      backgroundImage: \\"
+}
