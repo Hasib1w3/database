@@ -18,6 +18,7 @@
 #            --exclude ".gitignore" \
 #            --transfers 32
 
+# Also --checksum added to force checksum comparison but makes process slower.
 
 name: Mirror to R2
 
@@ -52,16 +53,7 @@ jobs:
           no_check_bucket = true
           EOF
 
-          rclone sync . r2:${R2_BUCKET_NAME} \
-            --checksum \           # Force checksum comparison but makes process slower.
-            --exclude ".git/**" \
-            --exclude ".github/**" \
-            --exclude ".gitignore" \
-            --delete-excluded \
-            --transfers 32 \
-            --checkers 64 \
-            --fast-list \
-            --log-level INFO
+          rclone sync . r2:${R2_BUCKET_NAME} --checksum --exclude ".git/**" --exclude ".github/**" --exclude ".gitignore" --delete-excluded --transfers 32 --checkers 64 --fast-list --log-level INFO
         env:
           R2_ACCESS_KEY: ${{ secrets.R2_ACCESS_KEY }}
           R2_SECRET_KEY: ${{ secrets.R2_SECRET_KEY }}
