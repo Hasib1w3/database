@@ -1,0 +1,49 @@
+# .github/workflows/mirror.yml
+
+name: Mirror to R2
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Pull the repo code
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. Install rclone
+      - name: Install rclone
+        run: curl https://rclone.org/install.sh | sudo bash
+
+      # 3. Exact mirror to R2
+      - name: Sync to R2
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf << EOF
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${R2_ACCESS_KEY}
+          secret_access_key = ${R2_SECRET_KEY}
+          endpoint = https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com
+          no_check_bucket = true
+          EOF
+
+          rclone sync . r2:${R2_BUCKET_NAME} \
+            --exclude ".git/**" \
+            --exclude ".github/**" \
+            --exclude ".gitignore" \
+            --delete-excluded \
+            --transfers 32 \
+            --checkers 64 \
+            --fast-list \
+            --log-level INFO
+        env:
+          R2_ACCESS_KEY: ${{ secrets.R2_ACCESS_KEY }}
+          R2_SECRET_KEY: ${{ secrets.R2_SECRET_KEY }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
